@@ -1,0 +1,21 @@
+Title: Littératie numérique
+
+----
+
+Labtype: Digital culture lab
+
+----
+
+Missionex: Rendre les jeunes capables de produire leurs propres outils numériques
+
+----
+
+Text: Comprendre le web et le numérique plus généralement. Tout cela n'est pas magique ! Code, sécurité et confidentialité, RS, etc.
+
+----
+
+Activityex: wikipedia party, solutions open source, crypto-party, HTML+CSS
+
+----
+
+Pic: http://cristal.univ-lille.fr/~marquet//cnl/med/thymio-xm15/img/IMG_20151216_145426.jpg

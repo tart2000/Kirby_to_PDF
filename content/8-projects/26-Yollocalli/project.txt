@@ -1,0 +1,63 @@
+Title: Yollocalli
+
+----
+
+En: 8
+
+----
+
+Typologie: Centre d'arts pour jeunes
+
+----
+
+Mission: Keeping it weird since 1997(fn: "Cultive l'étrange depuis 1997") 
+
+----
+
+Text: Yollocalli est l'initative pour les jeunes du 'National Museum of Mexican Art'. Elle a pour mission de renforcer la valeur de l'art et de la culture chez les jeunes en fournissant un accès égal aux ressources communautaires, artistiques et culturelles qui vont permettre aux jeunes de devenir des membres de la communauté créatifs et engagés. Le projet a opéré pendant longtemps sans espace physique et prend des formes diverses et variées, de la réalisation de murales dans le quartier à des performances ou la fabrication de fanzines(fn: librement traduit du site). 
+
+----
+
+Jeunes: 13-24
+
+----
+
+Ou: Chicago, USA
+
+----
+
+Contact: 
+
+----
+
+Moyens: - activités après l'école pendant l'année scolaire 
+- activités à la journée pendant les vacances scolaires
+
+----
+
+Facteurs: - Visibilité à l'extérieur (murales faites par les jeunes qui améliorent le quartier) 
+- Commencer sans espace physique 
+- Mise en lien avec des artistes locaux 
+
+----
+
+Web: Site web minimal. Même pas de présence sur le site du musée mexicain. 
+
+----
+
+Itw: FALSE
+
+----
+
+Theurl: http://yollocalli.org/
+
+----
+
+Pic: http://yollocalli.org/wp-content/uploads/2016/01/97.jpg
+
+----
+
+Logo: http://www.nuf-said.org/wp-content/uploads/avatars/1248/0f8c73547503da1a4551d675762e7d30-bpfull.png
+
+----
+

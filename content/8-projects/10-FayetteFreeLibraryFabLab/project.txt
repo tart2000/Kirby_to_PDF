@@ -1,0 +1,68 @@
+Title: Fayette Free Library FabLab
+
+----
+
+En: 3
+
+----
+
+Typologie: Bibliothèque équipée FabLab et Médialab
+
+----
+
+Mission: Fournir un accès libre et ouvert aux idées et à l'information.
+
+----
+
+Text: À la Fayetteville Free Library (FFL), l'équipe est passionnée par l'engagement de la communauté. Ils omprennent et embrassent le fait que la communauté anime et façonne la mission et la philosophie de la FFL. Leur mission est de "fournir un accès libre et ouvert aux idées et à l'information". FFL crée et entretient cet accès avec sa vision et sa mission. Leur croyance fondamentale est élégant dans sa simplicité : en créant un accès égalitaire et ouvert pour tous à la fine pointe la technologie, à des possibilités d'apprentissage uniques et innovantes et à de puissantes idées, les personnes et les communautés vont pouvoir transformer leur propre vie(fn: librement traduit du site). La bibliohtèque a été montrée comme un exemple lors de différents concours et en 2014, sa directrice executive, Sue Considine a été décorée à Washingtin DC comme 'White House Champion of Change' pour son travail.
+
+----
+
+Jeunes: yes
+
+----
+
+Ou: Fayetteville, USA
+
+----
+
+Contact: Sue Considine 
+
+----
+
+Moyens: 3 espaces de création : 
+- un FabLab 
+- un 'Creation Lab' pour la création numérique 
+- un 'little makerspace' pour les enfants de 5 à 8 ans 
+
+----
+
+Facteurs: - Super FAQ sur le site pour partager les apprentissages
+- 40% de la programmation gérée par le public (gratuitement !) 
+- Super culture dans l'organisation, mise en place depuis 14 ans
+- Objectif clair : l'engagement du public 
+- Equipement en quantité (9 imprimantes 3D) 
+
+----
+
+Web: un site un peu fouilli
+- mais super FAQ
+
+----
+
+Itw: TRUE
+
+----
+
+Theurl: http://www.fflib.org/make/
+
+----
+
+Pic: https://americanlibrariesmagazine.org/wp-content/uploads/2016/03/fablab.jpg
+
+----
+
+Logo: https://clrc.org/wp-content/uploads/2015/08/FayettevilleFreeLibrary.jpg
+
+----
+

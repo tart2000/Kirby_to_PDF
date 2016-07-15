@@ -1,0 +1,68 @@
+Title: Casemate
+
+----
+
+En: 7
+
+----
+
+Typologie: FabLab et CCSTI
+
+----
+
+Mission: Et si la culture numérique favorisait un meilleur partage des cultures scientifique, technique et industrielle ?
+
+----
+
+Text: La Casemate est un centre de culture scientifique (CCSTI) fondé en 1979 à l’initiative de représentants des universités et centres de recherche locaux, et collectivités locales. Sa mission principale consiste à diffuser et promouvoir la culture scientifique auprès de tous les publics. Un CCSTI est une structure ayant pour mission de favoriser les échanges entre la communauté scientifique et le public. Cette mission s'inscrit dans une démarche de partage des savoirs, de citoyenneté active, permettant à chacun d'aborder les nouveaux enjeux liés à l'accroissement des connaissances. Dans ce contexte, le CCSTI s'attache tout particulièrement à la mise en évidence des implications et des conséquences de cette évolution sur l'environnement du citoyen. Par les actions qu'il met en place, le CCSTI suscite l'émergence d'une prise de conscience individuelle, au profit d'un avenir collectif, en améliorant la connaissance de la science et de ses enjeux par les citoyens.
+
+----
+
+Jeunes: Entre autres. Activités spécifiques
+
+----
+
+Ou: Grenoble, France
+
+----
+
+Contact: Laurent Chicoineau
+
+----
+
+Moyens: 
+
+- un fablab équipé
+- des salles d'exposition et une équipe de médiateurs scientifiques 
+- une partie living lab 
+- des résidences / des stages / des événements 
+- 18 personnes dans l'équipe + CA
+
+----
+
+Facteurs: 
+
+- Expositions (c'est une CCSTI après tout) 
+- Développement d'outils spécifiques open source (fabmanager) mais avec une option 'payante' 
+- Actions hors-site (MakerFaire Lyon, etc.) 
+- Publication de rapports
+
+----
+
+Web: Site propre, complet et bien fait.  Site spécifiques pour projets spécifiques
+
+----
+
+Itw: TRUE
+
+----
+
+Theurl: http://lacasemate.fr/
+
+----
+
+Pic: http://www.wave-innovation.com/grenoble/assets/img/blog/Grenoble/17016567242_1b034c8649_k.jpg
+
+----
+
+Logo: http://lacasemate.fr/wp-content/uploads/2013/10/LACASEMATE-LOGO.png

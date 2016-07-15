@@ -1,0 +1,70 @@
+Title: Ace Monster Toys
+
+----
+
+En: 7
+
+----
+
+Typologie: Makerspace
+
+----
+
+Mission: Making “making, hacking and learning” available to the community(fn: rendre "la fabrication, le bricolage et l'apprentissage" accessible à la communauté).
+
+----
+
+Text: Ace Monster Toys est un makerspace légendaire basé à Oakland, en Califormie. Il offre 5 espaces de travail distincts, ainsi que toute une gamme de cours, laboratoires et ateliers. C'est une organisation 501( c)3 gérée entièrement par des bénévoles et supportée par ses membres. Il porte une grande attention à sa gouvernance et a évolué grandement depuis son ouverture(fn: librement traduit du site). 
+
+----
+
+Jeunes: Quelques activités pour les enfants
+
+----
+
+Ou: Oakland, USA
+
+----
+
+Contact: 
+
+----
+
+Moyens: TAPs Tools / Areas / Programs :
+- Découpe laser et impression 3D 
+- Textiles et salle de classe 
+- Electronique et Co-working
+- Atelier de travail du bois
+- Machines CNC travail du métal  
+
+----
+
+Facteurs: - Géré entièrement de manière bénévole par des 'volunteers'. Et ça a l'air de marcher incroyablement bien ! 
+- Accès 24h/24 7j/7 
+- Visites guidées à des heures fixes
+- Possibilité de payer pour son abonnement en donnant de son temps (6/8h/mois)
+- 'Provisional membership' avant d'être approuvé en 'full member' avec droits de votes sur l'organisation. 
+- Culture clairement définie
+
+----
+
+Web: Site + wiki 
+
+----
+
+Itw: FALSE
+
+----
+
+Theurl: https://www.acemonstertoys.org/
+
+----
+
+Pic: http://media.npr.org/assets/img/2012/12/14/hackerscouts_wide-7afdb5367ea18f289b9252041ef104bdca3145c0-s4.jpg
+
+----
+
+Logo: http://wiki.acemonstertoys.org/images/thumb/5/56/AMT-logo-refined-2.png/300px-AMT-logo-refined-2.png
+
+----
+

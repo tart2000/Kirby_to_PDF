@@ -1,0 +1,384 @@
+/*
+
+Kirby Starterkit
+
+Author: Bastian Allgeier / Sascha Lack
+URL:    http://getkirby.com
+Email:  support@getkirby.com
+
+*/
+
+
+/* Source Sans Pro
+-------------------------------------------------- */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/sourcesanspro-300.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/sourcesanspro-400.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/sourcesanspro-600.woff) format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url(../fonts/sourcesanspro-400-italic.woff) format('woff');
+}
+
+
+/* Reset
+-------------------------------------------------- */
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, nav, section, summary {
+  display: block;
+}
+
+
+/* Pix
+-------------------------------------------------- */
+img {
+  display: block;
+  max-width: 100%;
+}
+
+
+/* Links
+-------------------------------------------------- */
+a {
+  color: #000;
+  text-decoration: underline;
+  transition: color .3s, background .3s, border .3s;
+}
+a:hover {
+  color: red;
+}
+
+
+/* Site
+-------------------------------------------------- */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: #222;
+}
+
+/* Headings
+-------------------------------------------------- */
+h1 {
+  font-size: 2em;
+  line-height: 1.25em;
+  font-weight: 400;
+  margin-bottom: .5em;
+}
+h2 {
+  font-size: 2em;
+  line-height: 1.25em;
+  font-weight: 300;
+  margin-bottom: .5em;
+  color: red;
+}
+h3 {
+  font-size: 1.4em;
+  line-height: 1.5em;
+  font-weight: 400;
+  margin-bottom: .5em;
+}
+h4 {
+  font-size: 1.125em;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin-bottom: .5em;
+  color: red;
+}
+h1 a, h2 a, h3 a, h4 a {
+  color: inherit;
+  border: 0 !important;
+}
+
+/* Print Settings 
+-------------------------------------------------- */
+
+.page {
+  page-break-before: always;
+  position: relative;
+  overflow: hidden;
+  width: 8.5in;
+  height: 10.5in;
+}
+.content {
+  max-width: 8.5in;
+  padding-right: 60pt;
+  padding-left: 60pt; 
+}
+.page, .content {
+  margin-left: auto;
+  margin-right: auto;
+}
+@page {
+  size: 8.5in 10.5in;
+  margin: 70pt 0pt 70pt;
+}
+h1 {
+  page-break-before: always;
+  string-set: doctitle content();
+}
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+}
+h1 {
+  text-transform: uppercase;
+  border-bottom: 1pt solid black;
+  counter-reset: footnote;
+  margin-top: 4in;
+}
+.proj {
+  page-break-before: always;
+}
+.jump {
+  page-break-before: always;
+}
+h2 {
+  margin-top: 25px;
+}
+h3 {
+  margin-top: 20px;
+}
+h4 {
+  margin-top: 18px;
+}
+table, figure, img {
+  margin-top: 15pt;
+  page-break-inside: avoid;
+}
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+blockquote p {
+  display: inline;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 8px;
+  prince-footnote-policy: keep-with-block;
+  orphans: 2;
+  widows: 2;
+  text-align: justify;
+}
+li {
+  margin-left: 20px;
+}
+
+@page:first {
+  margin: 0;
+}
+@page :right {
+  @bottom-left {
+    margin: 10pt 0 30pt 60pt;
+    border-top: .25pt solid #666;
+    content: string(doctitle);
+    font-size: 9pt;
+    color: #333;
+  }
+  @bottom-right { 
+    margin: 10pt 60pt 30pt 0;
+    border-top: .25pt solid #666;
+    content: counter(page);
+    font-size: 9pt;
+  }
+}
+@page :left {
+  @bottom-right {
+    margin: 10pt 60pt 30pt 0;
+    border-top: .25pt solid #666;
+    content: string(doctitle);
+    font-size: 9pt;
+    color: #333;
+  }
+  @bottom-left { 
+    margin: 10pt 0 30pt 60pt;
+    border-top: .25pt solid #666;
+    content: counter(page);
+    font-size: 9pt;
+  }
+}
+@page {
+  @top {
+    content: 'Version de travail - Ne pas diffuser';
+  }
+}
+
+@page:first {
+  @bottom-right {
+    content: normal;
+    margin: -10pt;
+  }
+
+  @bottom-left {
+    content: normal;
+    margin: -10pt;
+  }
+  @top {
+    content: '';
+  }
+}
+
+/* Footnotes  
+-------------------------------------------------- */
+
+.fn {
+  float: footnote;
+  prince-footnote-policy: keep-with-block;
+}
+.fn {
+  counter-increment: footnote;
+}
+.fn::footnote-call {
+  content: counter(footnote);
+  font-size: 9pt;
+  vertical-align: super;
+  line-height: none;
+}
+.fn::footnote-marker {
+  font-weight: bold;
+}
+@page {
+  @footnotes {
+    border-top: 0.6pt solid black;
+    padding-top: 8pt;
+    padding-left: 18px;
+    margin-left: 60pt;
+    margin-right: 60pt;
+  }
+}
+
+/* Cover  
+-------------------------------------------------- */
+
+#cover {
+  page:cover;
+  margin-top: -20px;
+  height: 10.5in;
+}
+
+#cover .coverimage{
+  position: absolute;
+  z-index: -10;
+  top: 0;
+  left: 0;
+  width: 8.5in;
+  height: 10.5in;
+}
+#cover .coverimage img{
+  width: 100%;
+}
+
+#cover .logo {
+  position: absolute;
+  right: 0.3in;
+  top: 0.15in;
+}
+#cover .title{
+  position: absolute;
+  bottom: 3in;
+  left: 1in;
+  background-color: rgba(255,255,255,0.5);
+  padding: 0.3in;
+  max-width: 4in;
+}
+
+/* Table of Content  
+-------------------------------------------------- */
+
+#toc .toc {
+  position: absolute;
+  top: 30%;
+  left: 1.5in;
+  width: 60%;
+}
+ul.toc a {
+  text-decoration: none;
+}
+ul.toc a::after {
+  content: leader('.') target-counter(attr(href), page);
+}
+.project-logo {
+  float: right;
+  width: 20%;
+  padding-top: 10px;
+  padding-right: 20px;
+  position: relative;
+  top: -60pt;
+}
+.project-pic {
+  float: right;
+  width: 40%; 
+  position: relative;
+  right: -30pt;
+  top: -30pt;
+}
+.good {
+  background-color: #f9f9f9; 
+  padding: 10px 15px 20px 15px;
+  margin-top: 25px;
+}
+.bdg {
+  float: right;
+  position: relative;
+  right: 0px;
+  top: -80px;
+  z-index: 100;
+}
+.content ul {
+  padding-top: 6px;
+  padding-bottom: 10px;
+}
+.icon {
+  position: absolute;
+  left: 20pt;
+}
+thead {
+  background-color: white;
+}
+table {
+  background-color: #efefef;
+  width: 100%;
+}
+.rap li:first-child {
+  display: none;
+}
+img {
+  margin-bottom: 20px;
+}
+.disclaimer {
+  margin-top: 300px;
+}
+.logo {
+
+}
+.contact {
+  margin-top: 300px;
+}

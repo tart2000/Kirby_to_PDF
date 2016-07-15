@@ -1,0 +1,17 @@
+Title: Incubateur Saint Sulpice
+
+----
+
+Author: Rhizome Strategies
+
+----
+
+Description: État des lieux et recommandations
+
+----
+
+Keywords: Kirby, CMS, file-based
+
+----
+
+Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)

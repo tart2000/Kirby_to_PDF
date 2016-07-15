@@ -1,0 +1,66 @@
+Title: Medialab Amsterdam
+
+----
+
+En: 8
+
+----
+
+Typologie: Studio de design citoyen 
+
+----
+
+Mission: L'objectif de tous les projets de recherche est le caractère innovant des applications numériques.
+
+----
+
+Text: MediaLAB Amsterdam est un studio de création interdisciplinaire, où les étudiants et les chercheurs travaillent ensemble sur des projets de recherche innovants et interactifs pour les industries créatives. MediaLAB Amsterdam mène des projets de recherche appliquée autour des médias interactifs  innovants avec des partenaires de l'industrie et de l'éducation créative. Les projets de recherche portent sur les écrans urbains, les médias géo-localisés, la visualisation de données, la TV interactive, les jeux, l'avenir de l'édition et le e-learning(fn: librement traduit du site).
+
+----
+
+Jeunes: Pas directement 
+
+----
+
+Ou: Amsterdam, Pays-Bas
+
+----
+
+Contact: 
+
+----
+
+Moyens: - HvA studio dans une université 
+- staff de ~12 personnes + étudiants 
+- projets avec des partenaires 
+
+----
+
+Facteurs: - Projets de design 'réels' avec des partenaires industriels 
+- Stages pour les jeunes
+- Méthode de design précise et partagée 
+- Partage d'information (cf. design toolkit) 
+- Projet 'CREATE-IT' axé sur le 'citizen empowerment'
+
+----
+
+Web: Site simple
+
+----
+
+Itw: FALSE
+
+----
+
+Theurl: http://medialabamsterdam.com/
+
+----
+
+Pic: http://medialabamsterdam.com/wp-content/uploads/2012/06/HvA-2012-05-22-1271-547x364.jpg
+
+----
+
+Logo: http://networkcultures.org/unlikeus/wp-content/uploads/sites/2/2012/11/6115-200-116.jpg
+
+----
+
