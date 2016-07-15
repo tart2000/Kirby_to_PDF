@@ -15,14 +15,19 @@
 // gethigh('engagement','#C8F526','bell');
 
 
-$("p").text(function () {
-    return $(this).text().replace("St ", "Saint "); 
+$("p").each(function(){
+    $this = $(this);
+    $this.html($this.html().replace("St ", "Saint "));
 });
-$("p").text(function () {
-    return $(this).text().replace("Saint Sulpice", "Saint-Sulpice"); 
+
+$("p").each(function(){
+    $this = $(this);
+    $this.html($this.html().replace("Saint Sulpice", "Saint-Sulpice"));
 });
-$("p").text(function () {
-    return $(this).text().replace("incubateur Saint Sulpice", "Incubateur Saint-Sulpice"); 
+
+$("p").each(function(){
+    $this = $(this);
+    $this.html($this.html().replace("incubateur Saint-Sulpice", "Incubateur Saint-Sulpice"));
 });
 
 var InstantSearch = {
@@ -188,6 +193,9 @@ DoHighlight('communauté','#660A00','link');
 DoHighlight('écosystème','#660A00','link');
 
 DoHighlight('gouvernance','#DFB0FF','cogs');
+DoHighlight('structure','#DFB0FF','cogs');
+DoHighlight('structures','#DFB0FF','cogs');
+DoHighlight('top-down','#DFB0FF','cogs');
 
 DoHighlight('équipement','#FF9955','wrench');
 

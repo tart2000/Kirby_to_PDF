@@ -20,8 +20,6 @@ Rhizome a donc été mandaté par la BAnQ pour mieux comprendre les perspectives
 
 Elle a travaillé en étroite collaboration avec le comité d’idéation afin de faire émerger un modèle porteur visant à définir le plan cadre pour la nouvelle bibliothèque Saint-Sulpice. Cette démarche venant alimenter la réflexion autour de l’aménagement, de la programmation et des activités, des ressources et compétences, et de la gouvernance du projet. 
 
-(image: mots-cles.jpg) 
-
 ##Méthodologie 
 (image: process.jpg)
 *Schéma du processus proposé.*
@@ -29,15 +27,20 @@ Elle a travaillé en étroite collaboration avec le comité d’idéation afin d
 L’approche méthodologie repose sur quatre axes principaux :
 - Une recherche documentaire sur les tendances et perspectives dans le monde des bibliothèques et notamment sur l’intégration de la notion de “labs” ;
 - Un recherche ayant fait émerger 31 initiatives intégrant la notion de lab dont 25 ont un volet jeunes; 
-10 entrevues auprès de représentants d’initiatives, de représentants de l’écosystème local, et d’experts (fn: liste des personnes interviewées en annexe) ;
+10 entrevues auprès de représentants d’initiatives, de représentants de l’écosystème local, et d’experts(fn: liste des personnes interviewées en annexe) ;
 - Un processus de co-construction avec le comité d’idéation à des étapes clés d’orientation du mandat, notamment sur le besoin de définition d’une mission (rencontre kick off), sur les enjeux prioriser (rencontre d’orientation), sur les moteurs et freins face au champ des possibles (session de co-création), et enfin sur la construction d’un scénario d’expérimentation (plan d’action à 6 mois) visant à mettre la proposition de modèle à l’épreuve tout en amorçant la construction d’une communauté d’usagers.
 
-L’approche méthodologique proposée a permis de très rapidement centrer le mandat sur une nécessité de cohésion du modèle présenté, indépendamment des fonctions proposées (médialab jeune + Fab lab). Dans un premier temps sur 9 enjeux identifiés dans le cadre de la recherche (représentés dans les initiatives analysées), le comité d’idéation en a priorisé quatre(fn: Vote en ligne - www.upvoter.co/tallies/4wq95jwd) : 
+L’approche méthodologique proposée a permis de très rapidement centrer le mandat sur une nécessité de cohésion du modèle présenté, indépendamment des fonctions proposées (médialab jeune + Fab lab). Dans un premier temps sur 9 enjeux identifiés dans le cadre de la recherche (représentés dans les initiatives analysées), le comité d’idéation en a priorisé quatre(fn: Vote en ligne - http://www.upvoter.co/tallies/4wq95jwd) : 
 
 1. Développement personnel et leadership 
 2. Jeu et découverte
 3. Expérimentation et émancipation par le 'Faire'
 4. Inclusion, engagement citoyen et bien commun
+
+La mise en avant de ces enjeux a permis de préciser le niveau de recherche, tout en gardant un champ des possibles le plus ouvert possible. En effet, nous avons cherché à identifier des projets les plus variés différents respectant ces enjeux. 
+
+(possibles.jpg) 
+*De haut en bas et de droite à gauche : project H, l'école Quest2Learn, une activité soudage pendant une Maker Faire, une arène de vélo fabriquée au Artisan's Asylum.*
 
 Par la suite certains concepts ayant été identifiés durant la recherche se sont affirmés lors des entrevues comme centraux dans la construction de différents déterminants (bonnes pratiques) autour de la notion de bibliothèque laboratoire. Certaines amorces de déterminants ont été travaillées en session de co-création avec le comité d’idéation afin de faire émerger les freins (contraintes) et les moteurs (facilitants) au sein de l’environnement interne et externe (fn: voir annexe) : 
 
@@ -57,4 +60,4 @@ L’équipe a par la suite produit un cadre fonctionnel afin de servir de caneva
 - Certains exemples d’organisations pertinentes de l’écosystème local ; 
 - La dynamique de bibliothèque laboratoire.
 
-Enfin, un scénario d’expérimentation de 6 mois a été élaboré en partenariat avec le comité d’idéation afin de faciliter le passage à l’acte.
+Enfin, un scénario d’expérimentation de 6 mois a été élaboré en partenariat avec le comité d’idéation lors de la réunion du 14 juillet afin de faciliter le passage à l’acte. Celui-ci inclut une démarche de transition autour de la gouvernance et des processus d'appel d'offre, ainsi que le lancement d'un appel à projet pour valoriser les compétences internes du réseau et expérimenter des premiers projets dans une démarche d'incubation.

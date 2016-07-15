@@ -8,15 +8,12 @@ Text:
 
 *Son contenu représente uniquement le point de vue des auteurs et des gens qui ont été interrogés dans le cadre de l'étude. Elle ne représente aucunement la vision de la BAnQ ou du Ministère de la Culture québecois.*
 
-
-
-
- -----------
+_
 
 Directeur de la publication : 
-**David Santelli**
+- **David Santelli**
 
 Rédaction : 
-**Arthur Schmitt**
-**Christophe Billebaud**
-**David Santelli**
+- **Arthur Schmitt**
+- **Christophe Billebaud**
+- **David Santelli**

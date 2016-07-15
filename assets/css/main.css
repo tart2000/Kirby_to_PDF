@@ -370,6 +370,9 @@ table {
 .rap li:first-child {
   display: none;
 }
+.rap {
+  margin-bottom: 100px;
+}
 img {
   margin-bottom: 20px;
 }

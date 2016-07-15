@@ -21,16 +21,16 @@ Elle a les impacts suivants :
 - **Emergence de nouveaux types de contenus** : Du livre numérique à la Réalité Virtuelle
 - **Nouvelles attentes (et exigences) du public** : Les gens habitués à utiliser des applications performantes avec un très haut niveau de service ne supportent plus les interfaces désuettes ou les règles rétrogrades (interdiction de prendre des photos dans les musées)  
 
-Ces points sont importants, en particulier dans les institutions culturelles, où le numérique, pour différentes raisons sur lesquelles nous ne nous attarderons pas, est souvent synonyme de ‘site web’, ‘réseaux sociaux’ ou ‘numérisation des collections’. Or, il s’agit bien d’une bascule culturelle, qui doit se diffuser dans toute l’institution. 
+Ces points sont importants, en particulier dans les institutions culturelles, où le numérique est souvent synonyme de ‘site web’, ‘réseaux sociaux’ ou ‘numérisation des collections’. Or, il s’agit bien d’une bascule culturelle qui doit se diffuser dans toute l’institution. 
 
 Personne ne peut rester spectateur de la transformation numérique de nos sociétés et espérer en tirer un quelconque bénéfice. Le numérique est à la fois un savoir théorique, un savoir-faire pratique et un nouveau paradigme culturel, social et économique(fn: Partager les cultures scientifique, technique et industrielle à l’ère numérique - Laurent Chicoineau - http://lacasemate.fr/wp-content/uploads/2016/02/Rapport-numerique_2016-mail.pdf).  
 
-L’une des caractéristiques de la culture numérique, ajoute Laurent Chicoineau, est sa dimension pratique, expérientielle; elle s’acquière dans l’usage, la pratique, l’expérimentation. Cette appropriation peut s’exercer par l’utilisation réflexive de différents outils numériques existants et par une appréhension, plus ou moins approfondie, des principes généraux de la programmation informatique et de ce que certains nomment « la pensée computationnelle »(fn: Partager les cultures scientifique, technique et industrielle à l’ère numérique - Laurent Chicoineau - http://lacasemate.fr/wp-content/uploads/2016/02/Rapport-numerique_2016-mail.pdf). 
+L’une des caractéristiques de la culture numérique, ajoute Laurent Chicoineau, gestionnaire de la Casemate, est sa dimension pratique, expérientielle; elle s’acquière dans l’usage, la pratique, l’expérimentation. Cette appropriation peut s’exercer par l’utilisation réflexive de différents outils numériques existants et par une appréhension, plus ou moins approfondie, des principes généraux de la programmation informatique et de ce que certains nomment « la pensée computationnelle »(fn: Partager les cultures scientifique, technique et industrielle à l’ère numérique - Laurent Chicoineau - http://lacasemate.fr/wp-content/uploads/2016/02/Rapport-numerique_2016-mail.pdf). 
 
 Le rapport ‘Partager les cultures scientifique, technique et industrielle à l’ère numérique’ finit sur ce constat, mettant l'appropriation de cette culture numérique au centre des enjeux : 
-- Une évidence : s’approprier la culture numérique
-- Une urgence : construire la transversalité
-- Une solution : innover dans la gouvernance(fn: Partager les cultures scientifique, technique et industrielle à l’ère numérique - Laurent Chicoineau - http://lacasemate.fr/wp-content/uploads/2016/02/Rapport-numerique_2016-mail.pdf) 
+- Une évidence : s’approprier la culture numérique.
+- Une urgence : construire la transversalité.
+- Une solution : innover dans la gouvernance(fn: Partager les cultures scientifique, technique et industrielle à l’ère numérique - Laurent Chicoineau - http://lacasemate.fr/wp-content/uploads/2016/02/Rapport-numerique_2016-mail.pdf).
 
 Ce nouveau paradigme vient avec ses outils, ses pratiques, ses héros, ses prophètes et ses guerres de clochers.  
 
@@ -63,9 +63,9 @@ Coline Blanpain dans sa thèse « Un lab en bibliothèque, à quoi ça sert? » 
 
 De la même manière, les auteurs de LabCraft, un livre sur les labs écrit en mode ‘booksprint’, décrivent les labs ainsi :
 
-> Une façon de comprendre un laboratoire est de le voir comme un ‘hub’ ou une plate-forme qui vise à catalyser les innovations émergentes dans un domaine particulier par le biais de diverses stratégies et interventions(fn: LabCraft - traduit de l’anglais - http://labcraft.co/).
+> Une façon de comprendre un laboratoire est de le voir comme un ‘hub’ ou une plateforme qui vise à catalyser les innovations émergentes dans un domaine particulier par le biais de diverses stratégies et interventions(fn: LabCraft - traduit de l’anglais - http://labcraft.co/).
 
-Selon Stephane Vincent, de la 27ème Région, la première raison de la montée des labs est l’échec de toutes les grandes institutions à apporter des réponses concrètes aux grands défis, au-delà des gouvernements eux-mêmes : par exemple la recherche universitaire, qui n’est pas parvenue à transformer les connaissances en un véritable changement ; les syndicats, dont la représentation se réduit dans la plupart des pays ; mais aussi les grandes entreprises de conseil et d’audit, au moins les sociétés internationales qui tendent à perpétuer des idées préfabriquées. Dans ce contexte, les Labs sont comme des « bricolages » qui auraient à la fois appris de limites de ces anciens modèles, et auraient combiné cette connaissance avec le meilleur des tendances actuelles telles que les cultures « makers », les nouvelles pratiques du design ou de l’innovation sociale(fn: la 27ème Région - http://www.la27eregion.fr/lab-builders-why-how-and-some-thinking-about-the-next-generation-of-labs-programmes/). 
+Selon Stephane Vincent, de la 27ème Région, "la première raison de la montée des labs est l’échec de toutes les grandes institutions à apporter des réponses concrètes aux grands défis, au-delà des gouvernements eux-mêmes : par exemple la recherche universitaire, qui n’est pas parvenue à transformer les connaissances en un véritable changement ; les syndicats, dont la représentation se réduit dans la plupart des pays ; mais aussi les grandes entreprises de conseil et d’audit, [...] qui tendent à perpétuer des idées préfabriquées. Dans ce contexte, les Labs sont comme des « bricolages » qui auraient à la fois appris des limites de ces anciens modèles, et auraient combiné cette connaissance avec le meilleur des tendances actuelles telles que les cultures « makers », les nouvelles pratiques du design ou de l’innovation sociale(fn: la 27ème Région - http://www.la27eregion.fr/lab-builders-why-how-and-some-thinking-about-the-next-generation-of-labs-programmes/)." 
 
 Cet aspect est confirmé par les auteurs de LabCraft, qui rappellent que, dans un certain sens, c’est l’incapacité des structures existantes à s’adapter et à accueillir l’émergence qui est à l’origine de l’explosion des labs : 
 
@@ -77,7 +77,7 @@ On assiste à l’émergence de ce type d’espace dans le domaine de la biolo
 
 Ce que nous montre l’état des lieux, c’est donc que dans ces labs se construit une nouvelle forme d’engagement et de citoyenneté, concentrée sur l’impact local, mais tournée vers l’international grâce à la mise en réseau. 
 
-Les laboratoires sont à l’image du processus qui les a créé, rappelle Stephane Vincent, de la 27ème Région. On ne crée pas un « lab » de façon top-down, comme les décideurs publics créaient auparavant leurs départements «innovation»(fn: la 27ème Région - http://www.la27eregion.fr/lab-builders-why-how-and-some-thinking-about-the-next-generation-of-labs-programmes/). Et c’est là où, il semblerait, la plupart des institutions rencontrent leur limite. 
+Les laboratoires sont à l’image du processus qui les a créé, rappelle Stephane Vincent, de la 27ème Région : "On ne crée pas un « lab » de façon *top-down*, comme les décideurs publics créaient auparavant leurs départements «innovation»(fn: la 27ème Région - http://www.la27eregion.fr/lab-builders-why-how-and-some-thinking-about-the-next-generation-of-labs-programmes/)". Et c’est là où, il semblerait, la plupart des institutions rencontrent leur limite. 
 
 ###Et les jeunes dans tout ça ?
 

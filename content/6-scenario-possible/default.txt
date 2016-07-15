@@ -1,5 +1,39 @@
-Title: Scénario possible
+Title: Scénario à court terme
 
 ----
 
 Text: 
+
+Le projet de l’Incubateur Saint-Sulpice va maintenant entrer dans une phase de transition qui sera assurément remplie de défis mais qui peut s’avérer également être une formidable zone d’opportunités pour l’incubateur, ses opérateurs et son écosystème. Quoi de plus propice en effet que de pouvoir tester la proposition de l’incubateur comme lieu de soutien à l’émergence alors qu’il est lui-même en pleine émergence ?
+
+Ainsi un scénario intéressant de travail pour les 6 prochains mois serait à la fois de réfléchir aux conditions de gouvernance à créer pour faire de l’incubateur une bibliothèque-laboratoire agile et pertinente, mais également de commencer à expérimenter des premiers projets pour tester sa capacité à transformer des usagers en activateurs et à s’appuyer sur les compétences et ressources déjà disponibles dans le réseau de la BAnQ et de la Ville de Montréal.
+
+##Création des conditions de démarrage de l’incubateur
+
+Le travail de réflexion avec le comité d’idéation l’a montré : l'une des transformations préliminaires les plus importantes à effectuer pour lancer le projet sera la capacité de savoir le gérer suivant une gouvernance partagée entre les partenaires et d’établir une compréhension commune au-delà d’éléments fonctionnels ou budgétaires. C’est pourquoi il serait pertinent pour un groupe de travail ad hoc de lancer la réflexion autour d’un plan de réalisation de l’incubateur en utilisant comme méthodologie d’animation et de médiation un laboratoire de changement (*change lab*). Cette approche collaborative et opérationnelle permettrait en effet aux parties prenantes de travailler activement ensemble pour dégager rapidement une compréhension commune de la complexité du projet puis d’élaborer ensemble un plan d’action intégrant les besoins, objectifs et capacités de tous. Certains éléments de ce plan pourront ensuite être expérimentés de manière rapide et agile. Clarifier la complexité du projet amènerait ainsi à valider des solutions optimales sur des questions relatives à la gouvernance et l’implication des partenaires, au phasage et à la définition du concours d’architecture, à la communication adéquate autour du projet pendant la phase d’émergence et à la gestion des retombées attendues par les parties prenantes.
+
+##Expérimentation des premiers projets en mode agile
+
+Expérimenter rapidement des projets aurait le double avantage de valider sur le terrain les hypothèses de travail d’une bibliothèque-laboratoire en collaboration avec des partenaires extérieurs habituels ou potentiels, mais aussi de créer une opportunité de valorisation des compétences déjà reconnues chez les professionnels du réseau de BAnQ et des bibliothèques de Montréal.
+
+Le dernier atelier de travail de co-design avec le comité d’idéation(fn: Atelier du 14 juillet 2016) a montré que, une fois effectuées les réparations d’usage pour rendre l’espace utilisable (toilettes, wifi), des projets simples et peu coûteux peuvent être élaborés dans le cadre d’une programmation expérimentale autour des 3 pôles d’attraction de l’incubateur (bibliothèque intelligente, plateforme de création et carrefour communautaire). 
+
+Voici quelques exemples de projets qui ont émergé de la réflexion et qui tirent avantage de la configuration actuelle du lieu : 
+
+- Utilisation des murs vides ou façades pour des projections interactives et ludiques et des concours de peintures à numéro, avec Mural(fn: Festival Mural - http://16.muralfestival.com/), 
+- Installations temporaires développées suivant des approches d’urbanisme tactique telles que déployées actuellement par le collectif ETC à la tour Wellington(fn: Place au chantier - http://www.placeauchantier.com/), 
+- Village de *containers* (ou anciens wagons STM) à l’arrière du bâtiment offrant des activités pratiques extérieures, 
+- Auditorium pour mener des forums ouverts ou des plénières pendant des événements créatifs (Muséomix(fn: Museomix Montréal - http://museomixmtl.com), Global Game Jam, booksprints(fn: Ateliers d’écriture collaborative), etc.), 
+- Ancien magasin de stockage pouvant servir de ferme hydroponique éducative en partenariat avec Éau(fn: Fermes verticales - http://www.eau-agriculture.com/).
+
+Au niveau utilisation des ressources existantes, l’opportunité est ouverte autant de faire un appel à collaboration auprès des partenaires actuels ou potentiels du réseau que de lancer un appel à projets en interne sur le thème : “imaginez votre projet pour l’incubateur Saint-Sulpice”. Ce concours interne permettrait de faire émerger les potentiels champions qui au terme du processus de sélection auraient l’opportunité de venir réaliser leur projet dans l’incubateur. Les critères de design des projets intégreraient minimalement les contraintes actuelles comme la configuration du lieu, la durée du projet, l’intégration dans une programmation autour des 3 pôles, l’intégration d’un partenaire extérieur, etc. Dans tous les cas, le point crucial du projet serait de devoir proposer une solution pour transformer des usagers en activateurs. 
+
+Une double dynamique d’observation et d’animation des projets serait encadrée pendant la phase d’expérimentation par une équipe ad hoc dans un triple souci de:
+
+- Valider les hypothèses de travail et pratiques pour engager un spectateur ;
+- Valider les nouvelles compétences que l’équipe projet a développé pendant le projet ou celles dont elle aurait besoin pour faire passer le projet à une plus grande échelle;
+- Dégager les éléments de communication à diffuser sous forme de “carnets de chantier” rendant compte de l’organisation du chaos mais aussi de l’effervescence des projets.
+
+Pour référence, nous avons compilé dans le schéma suivant une liste des possibles partenaires, issus du réseau de Rhizome et de références fournies par le groupe de travail. Ce panorama est volontairement hétérogène et certains de ces partenaires potentiels sont à priori déjà dans une posture d’activateurs d’une communauté, alors que d’autres pourraient le devenir grâce à la proposition de l’incubateur Saint-Sulpice. Une approche plus systèmatique de ces partenaires devra être faîte dans un deuxième temps pour évaluer leur niveau de maturité sur ces sujets et leur capacités de passage à l’action. 
+
+(image: partenaires.jpg)
