@@ -74,13 +74,13 @@
 			<!-- Sommaire des projets -->
 			<h2 class="jump">Projets identifiés</h2>
 			<ol>
-				<?php foreach ($p->children() as $pro) : ?>
+				<?php foreach ($p->children()->sortBy('title', 'asc') as $pro) : ?>
 					<li><a href="#<?php echo $pro->uid() ?>"><?php echo $pro->title() ?></a> - <?php echo $pro->ou() ?></li>
 				<?php endforeach ?>
 			</ol>
 
 			<!-- une page par projet -->
-			<?php foreach ($p->children() as $pro) : ?>
+			<?php foreach ($p->children()->sortBy('title', 'asc') as $pro) : ?>
 				<div class="proj">
 					<h2 id="<?php echo $pro->uid() ?>"><?php echo $pro->title() ?></h2>
 					<?php if ($pro->logo()!='') : ?>

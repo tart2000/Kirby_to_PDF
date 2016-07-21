@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - determinants
-  - recommandations
-  - introduction
-  - scenario-possible
   - contexte
+  - resum-ex-cutif
+  - annexes
+  - projects/InstituteofPlay

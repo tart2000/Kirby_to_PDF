@@ -1,0 +1,64 @@
+Title: YOUmedia
+
+----
+
+En: 7
+
+----
+
+Typologie: Espace d'apprentissage et création média pour les jeunes
+
+----
+
+Mission: Développer des compétences à travers des situations informelles d'apprentissage
+
+----
+
+Text: YOUmedia Chicago est un réseau d'espaces innovants d'apprentissage du numérique pour les adolescents du 21ème siècle. Ils sont présents à douze endroits du réseau de la Chicago Public Library. YOUmedia connecte des jeunes adultes, des livres, des médias, des mentors et des institutions à travers Chicago dans des espaces dynamiques conçus pour inspirer la collaboration et la créativité. YOUmedia fonctionne comme un environnement d'apprentissage improvisé (*drop-in*) hors de l'école, pour aider les adolescents à développer des compétences dans les médias numériques, STEM et la fabrication. La programmation YOUmedia s'appuie sur la pratique de l'apprentissage connecté. Ils encouragent les participants à créer plutôt que de consommer, et les adolescents sont encouragés à apprendre sur la base de l'intérêt grâce à des collaborations intergénérationnelles et avec leurs pairs(fn: librement traduit du site).
+
+----
+
+Jeunes: Oui
+
+----
+
+Ou: Chicago, USA
+
+----
+
+Contact: 
+
+----
+
+Moyens: 
+
+- 12 sites dans la région de Chicago dans des bibliohtèques publiques 
+- YOUmedia teens
+
+----
+
+Facteurs: 
+
+- Réseau : échange de bonnes pratiques 
+- Systèmes de mentorat
+- Approche HoMaGo (situations informelles d'apprentissage)
+
+----
+
+Web: Site du réseau down
+
+----
+
+Itw: FALSE
+
+----
+
+Theurl: http://www.chipublib.org/programs-and-partnerships/youmedia/
+
+----
+
+Pic: https://chicago.bibliocms.com/wp-content/uploads/sites/3/2014/12/CTA-ad-760x570.jpg
+
+----
+
+Logo: http://connectedlearning.tv/sites/connectedlearning.tv/files/case-studies/youmedia-logo.png

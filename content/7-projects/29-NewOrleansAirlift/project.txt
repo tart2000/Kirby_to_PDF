@@ -1,0 +1,63 @@
+Title: New Orleans Airlift
+
+----
+
+En: 8
+
+----
+
+Typologie: Organisation artistique
+
+----
+
+Mission: Collaborer afin d'inspirer l'émerveillement, connecter les communautés et faire naitre des opportunités à travers l'éducation artistique et la création d'oeuvres publiques expérimentales(fn: librement traduit du site).
+
+----
+
+Text: New Orleans Airlift est une initiative dirigée par des artistes qui collaborent et créent aux côtés des communautés qu'ils soutiennent. Le projet met en valeur la culture populaire et la scène artistique 'underground' locale, tout en faisant appel à des artistes du monde entier dans sa programmation. Son projet 'music box' est en développement depuis plusieurs années et a pris des formes différentes, jusqu'à devenir un espace permanent. Il s'appuie sur la notion de 'musical architecture(fn: "architecture musicale")' qui utilise le bâti pour en faire des instruments. Le résultat donne un village à mi-chemin entre le conte de fée et le bidonville dans lequel chaque installation recèle des instruments secrets et permet au public de se les approprier dans des performances improvisées.
+
+----
+
+Jeunes: Entre autres
+
+----
+
+Ou: New Orleans, USA
+
+----
+
+Contact: 
+
+----
+
+Moyens: 
+
+----
+
+Facteurs: 
+
+- Visuellement magique 
+- Dispositifs interactifs (musicaux) simples et intégrés dans l'architecture
+- Campagne(s) de socio-financement permettant d'impliquer la communauté 
+- Partenariats avec de nombreux artistes locaux et internationaux
+- Commencer petit, puis évoluer
+
+----
+
+Web: Site simple + ks
+
+----
+
+Itw: FALSE
+
+----
+
+Theurl: http://www.neworleansairlift.org/
+
+----
+
+Pic: https://format-com-cld-res.cloudinary.com/image/private/s--y5CE8qMR--/c_limit,g_center,h_1200,w_65535/a_auto,fl_keep_iptc.progressive,q_95/Widmer_MusicBox_Final-1_gzikzf.jpg
+
+----
+
+Logo: http://cam.usf.edu/musicbox/logos/noa-logo.jpg

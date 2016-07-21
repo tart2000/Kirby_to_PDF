@@ -1,0 +1,139 @@
+Title: Annexes
+
+----
+
+Text: 
+
+Sont présentés dans cette annexe : 
+
+a - Liste des entretiens effectués 
+b - Présentation des enjeux 
+c - Exemple pratique de mise en application du schéma 'spectateur -> activateur' 
+d - Exemples de mise en espace présentés lors de la réunion de co-création du 23 juin
+e - Exemples d'activités 
+
+##a - Liste des Entretiens 
+
+|Nom |Rôle|Structure |Localisation|Date|
+| --------- | ------ | ---- | ------ | ------ |
+|Julien Devriendt|Responsable numérique|Médiathèque de Choisy le Roi, Commission Fablab ABF|Choisy-le-roi, France|14 juin 2016|
+|Laurent Chicoineau|Directeur|Casemate|Grenoble, France|22 juin 2016|
+|Samuel Bausson|Webmestre|Champs Libres|Rennes, France|15 juin 2016|
+|Trent Miller|Artist/Curator/Instigator Head Bubblerarian|Bubbler|Madison, USA|29 juin 2016|
+|Sue Considine|Executive Director|Fablab Free Library|Fayetteville, USA|17 juin 2016|
+|Catherine Cormier|Program director|The Mix|San Francisco, USA|7 juillet 2016|
+|Pascal Nataf|CEO|Affordance|Montréal, QC|14 juin 2016|
+|Yves Jacquiers|Directeur innovation|Ubisoft|Montréal, Qc|21 juin 2016|
+|Pascal Grenier|Directeur des partenariats|Exeko|Montréal, Qc|5 juillet 2016|
+
+##b - Présentation des enjeux
+
+|Enjeu|Type de 'lab'|Description|Exemple de mission|Exemples d'activités spécifiques|
+| ------ | ------ | ------ | ------ | ------ |
+|Développement personnel et leadership|Incubateur d'individus - Leaders Lab|Aider à trouver sa voie. Faire émerger des agents du changement qui pourront être des contributeurs actifs dans leurs différents univers. Responsabiliser et développer la confiance en soi.|Faire des jeunes les principaux agents de leur destin|création de podcasts, programme de mentorat|
+|Collaboration et pensée critique|Critical lab|Développer un regard critique sur les médias et le numérique. Encourager la collaboration et montrer comment on fait. Nouvelles pédagogies.|Outiller les futures générations pour en faire des citoyens engagés dans la construction de la société de demain|Montage et diffusion émissions (TV ou radio), débats|
+|Inclusion, engagement citoyen et bien commun|Social lab|Rendre accessibles des outils de création et de diffusion. Faire comprendre qu'on peut changer les choses par son implication au niveau local, national ou international. Développer une sensibilité aux outils en code source libre.|Aider les jeunes générations à s'impliquer dans leur quartier à travers des outils libres|réparation et récupération, accès médecine, analyses ADN DIY|
+|Litéracie numérique|Digital culture lab|Comprendre le web et le numérique plus généralement. Efforts particuliers envers les filles. Tout cela n'est pas magique ! Code, sécurité et confidentialité, RS, etc.|Rendre les jeunes capables de produire leurs propres outils numériques|wikipedia party, solutions open source, crypto-party, HTML+CSS|
+|Formation professionnelle, soutien scolaire et employabilité|Learning lab|Former aux emplois de demain. Aider à aller plus loin à l'école. Prévenir le décrochage. Créer des liens avec des entreprises|Former les nouvelles générations à des emplois qui n'existent pas encore|cours du soir, écriture de CVs, camps d'été|
+|Sciences et technologies (STEM)|Techno lab|Faire (re)naitre un intérêt pour les matières scientifiques à travers des activités expérientielles.|Faire émerger une appétences pour les sciences et les technologies auprès des jeunes générations|robotique, photographie en ballon, science Fair|
+|Expérimentation et émancipation par le 'Faire'|Makerspace|Donner tous les outils pour faire et apprendre à faire. Fabrication numérique, apprentissage 'hands-on' etc.|Le bidouillage pour apprendre à apprendre|little bits, repair café, Maker Faire, tricot|
+|Production artistique, production média et créativité|Creative lab|Donner des outils et accompagner dans la création artistique ou média. Arts numériques, podasts, vidéos, craft, etc.|Donner aux jeunes des outils pour exprimer et développer leur(s) talent(s)|films documentaires, murales, fanzines, résidences d'artistes|
+|Jeu et découverte|Fun lab|Créer un espace (gratuit) de détente qui offre des expériences amusantes à travers lesquelles on peut apprendre. Arcade, LAN, jeux vidéos, jeux de société, etc.|Utiliser le jeu comme point d'entrée pour découvrir et apprendre|arcade DIY, jeux Scratch, soirées LAN, Twitch, Quizzes, "Connected Camps"|
+
+##c - Parlons de pâte à modeler 
+Cet exemple vient accompagner le parcours d’un usager présenté dans les recommandations. Il illustre les différents niveaux de participation et d'engagement. 
+
+###Spectateur
+Une exposition sur la pâte à modeler est organisée à Saint-Sulpice. De King Kong produit en 1933 à Wallace & Gromit, en passant par Moi et Mao, on découvre les dessous de l’utilisation de la pâte à modeler au cinéma et la télévision.
+
+Une application de réalité augmentée permet de jouer avec les personnages en les habillant d’objets qui peuvent être imprimés en 3D. Des fiches tout au long de l’exposition donnent les calendriers des ateliers de fabrication organisés à Saint Sulpice.
+
+Des jeux (Cranium, Rapidough) sont mis à disposition des visiteurs pour jouer en famille ou en tournoi.
+Des rendez-vous sont programmés pour rencontrer des professionnels du métier, autant des scénaristes que des réalisateurs et des animateurs.
+
+###Utilisateur
+Les spectateurs intéressés participent à des ateliers de fabrication autour de la pâte à modeler qui permettent d’aborder les thèmes suivants:
+- Développement de scénarios  de court métrage
+- Intégration d’éléments imprimés 3D dans les personnages
+- Tournage avec la technique d'animation image par image (*stop-motion*)
+- Écriture musicale pour le cinéma et enregistrement
+
+Les mentors sont des experts du métier (INIS, réseaux des animateurs et effets spéciaux, Ubisoft, La Guilde, …)
+Assister à tous les ateliers permet de créer un court métrage d'une minute qui sera diffusé sur les réseaux de communication de Saint-Sulpice et pendant l’exposition pour que les visiteurs puissent voter. Lors des ateliers, on rappelle que toute personne intéressée à développer un projet plus concret autour de la pâte à modeler peut être encadrée par l’équipe présente afin de le réaliser.
+
+###Collaborateur 
+Voyant l’intérêt autour des ateliers, les membres de l'équipe en place décident de lancer un appel à projet auprès de la communauté Saint Sulpice pour produire des court métrage de cinq minutes avec de la pâte à modeler. Parmi les trois projets sélectionnés, on retrouve le Centre d’amitié autochtone de Montréal qui veut parler des enjeux d’intégration des autochtones en ville et sensibiliser la communauté urbaine aux solutions à mettre en place.
+
+L’équipe soutient les différentes équipe projet de manière active, autant en les formant à des techniques de gestion collaborative qu'en leur facilitant l’accès à un réseau de professionnels et d’usagers experts qui ont montré de l’intérêt pour donner gratuitement de leur temps dans la réalisation des projet.
+Au final, sur six mois, c’est plus de 100 personnes qui s’investissent dans les projet (scénario, réalisation, animation, sonorisation, musique, communication, diffusion,…)
+
+Les films sont diffusés sur le web et se font remarqué par des professionnels du cinéma. Ils sont repris en programmation à Saint-Sulpice et pendant le Festival des courts métrages de Montréal.
+
+###Activateur
+Pour faire suite au succès de son court métrage et aux appels de plusieurs collaborateurs voulant réaliser la même chose, le groupe projet décide de lancer un festival de la pâte à modeler qui va durer deux jours.
+
+L’objectif du festival est de montrer toutes les étapes opérationnelles de réalisation d’un film d’animation et de mettre à disposition du matériel et des ressources pour que des groupes puissent élaborer en 48 heures leur propre projet.
+
+Au lancement du festival, des problématiques sont présentées par des communautés et des équipes multidisciplinaires sont amenées à imaginer et réaliser un film pour répondre à cette problématique. L'équipe de Saint-Sulpice joue alors un rôle d’intermédiaire facilitant pour connecter les organisateurs avec des partenaires de financement ou d’opérations. Il met également à disposition des ressources internes (personnel, technologie) pour faciliter la tenue des différents ateliers.
+
+Le festival réussit à attirer 650 personnes avec 40 équipes qui vont produire plus de deux heures de contenus animés. Les contenus sont diffusés sur les réseaux de Saint-Sulpice et une nouvelle exposition est organisée.
+
+##d- Exemples de mise en espace 
+
+Ci-dessous sont rapportés des inspirations d'aménagement qui ont été présentées lors de la réunion de conception participative du 23 juin. Chacun des thèmes (enchantement, 'pop-up architecture', 'hackable playspace') est illustré par des exemples. 
+
+###Enchantement 
+(image: enchantement.jpg) 
+
+Music Box Roving Village, New Orleans, USA. Le collectif d’artiste Airlift (voir page projet) a construit un village de maisons musicales, à mi-chemin entre une favella et un village de conte de fées. Les visiteurs peuvent interagir avec l’architecture même pour faire de la musique. Des performances s’improvisent régulièrement. 
+
+Skatepark Kaos Temple, Llanera, Espagne. L’église, datant de 1912, à l’abandon depuis plusieurs années a été remise à neuf et transformée en planchodrome (*skate park*) grâce à une campagne de socio-financement mené par un collectif se faisant appeller ‘church brigade’. L’artiste Okuda San Miguel a été comissionné pour faire les peintures et Red Bull a été amené comme commanditaire(fn: http://www.thisiscolossal.com/2015/12/skate-church-okuda-san-miguel/). 
+
+Burning Man, Nevada, USA. Burning man est un festival créatif ayant ieu chaque année réunissant près de 40 000 personnes dans le désert de Black Rock City. le festival se caractérise par un certain nombre de spécificités : la mise en commun (*community*), l’activité artistique (*artwork*), la recherche de l’incongru et de l’inepte (*absurdity*), la volonté de s’affranchir des lois du marché (*decommodification*) et une joie de vie bruyante (*revelry*)(fn: https://fr.wikipedia.org/wiki/Burning_Man#Statistiques_de_fr.C3.A9quentation).
+
+Berges flottantes par Christo, lac Iseo, Italie. La passerelle flottante de 3 km de long s’étend à travers l'eau, permettant d’accéder à pied à l’île de San Paolo, qu’elle encercle entièrement. Les montagnes environnantes offrent une vue plongeante sur les passages dorés qui mènent dans et autour de la ville. Le projet, en gestation depuis près de 40 ans, est ouvert au public, gratuitement, pour 15 jours seulement. 
+
+###‘Pop-up architecture’ (architecture légère)
+(image: popup.jpg)
+
+Pavillon par BNKR arquitetcura, Mexico. S'étant fait attribuer un espace dans le centre de la salle dédiée à l'événement, les concepteurs ont construit un paysage avec des conteneurs rouges recyclés, que les visiteurs peuvent utiliser de multiples façons. L'installation a été utilisée comme des bancs, comme un seuil qui relie les différents espaces, une plate-forme d'observation pour voir les autres installations d'un autre point de vue, une aire de jeux pour les enfants, un amphithéâtre pour un concert et comme un endroit pour tenir une petite conférence. 
+
+Camping temporaire par Yes We Camp, Marseille, France. Depuis 2013, Yes We Camp explore les possibilités de construire, habiter et utiliser les espaces partagés en proposant des équipements temporaires innovants, fonctionnels et inclusifs. Pour chaque projet, l’association fait appel aux compétences ciblées de professionnels de son réseau et travaille en lien avec les acteurs locaux. Aujourd’hui, l’équipe permanente regroupe une vingtaine de personnes basées à Marseille et à Paris qui partagent la même envie de contribuer au monde contemporain(fn: http://yeswecamp.org/).
+
+Vitra Hub par Konstantin Grcic. Présenté lors de Designblok 15 - semaine du design et de la mode annuelle de Prague - le hub vitra est une installation expérimentale montée par des étudiants de l'académie des arts, d'architecture et de design (AAAD) de la ville. Répondant au thème général de l'événement (la liberté), cet espace fonctionne comme un avant-poste créatif, encourageant la participation et la réapropriation du public. 
+
+Temple of Agape par Morag & Luke, London, UK. Installation temporaire commandée par le Centre Southbank pour leur festival d‘été ‘Festival of Love’. Le ‘Temple d’Agapé’ est une célébration d'amour à l'humanité.
+
+Stairway cinema par Oh No Sumo, Aukland, Nouvelle Zélande. Ce jeune studio d’architecture a transformé des escaliers en mini cinéma grâce à une simple structure. Il vise à recréer un espace de socialisation et de communication en projetant des courts métrages tirés d’Internet.
+
+###‘Hackable Playspace’ (espace jouable et modifiable) 
+(image: playspace.jpg)
+
+Obliteration room par Yayoi Kusama, Queensland, Australie. Que se passe-t’il quand on donne des autocollants de couleur à des visiteurs dans une salle blanche ? C’est le pari de cette installation participative. 
+
+Cabine photo DIY. Les photomatons font leur grand retour. Faciles à construire et à programmer, elles donnent au public jeune l’occasion de faire un égoportrait (*selfie*) de groupe. Elles peuvent offrir différents types de rendus photo (filtres, photos animées, etc.).
+
+Arcade DIY. Il est facile aujourd’hui de construire une borne d’arcade avec un peu de bois et un ordinateur. Des émulateurs permettent de jouer à des centaines d’anciens jeux. Certains utilisateurs vont même jusqu’à personnaliser leur borne avec des lumières et des autocollants. 
+
+Installation Appeel par Frédéric Eyl. Appeel est une grille analogique contenant des milliers d'autocollants. Enlever l’un d'eux élimine un « pixel » et laisse un espace blanc à sa place. Les pixels prennent une vie propre car ils deviennent des messages, des images, des collections dessinées par le public.
+
+Anypixel.js par Google. AnyPixel.js est une librairie de matériel et logiciel libre qui permet d'utiliser le web pour créer des installations interactives utilisant des des écrans géants, insolites à partir de toutes sortes d'éléments unitaires. Tout le monde peut utiliser le code et les schémas pour créer leur propre affichage à n'importe quelle échelle(fn: http://googlecreativelab.github.io/anypixel/).
+
+##e - Exemples d'activités
+
+Notre recherche nous a amené à découvrir une grande quantité de ressources. Nous proposons ci-dessous une liste de ces ressources. Ensemble, elles décrivent près de 300 activités possibles. 
+
+- Activités pratiques de Project H (x31 - en) : http://www.projecthdesign.org/toolbox/format/lesson-plans-activities/
+- Les 'Box-bots' de ACE Monter Toys (x1 - en) : https://www.acemonstertoys.org/box-bots/ 
+- Activités à portée scientifique par PBS Kids (x100+ - en) : http://pbskids.org/zoom/activities/sci/ 
+- Fiches activités par l'équipe française de Lab en Bib (x8 - fr) : http://www.labenbib.fr/index.php?title=Ateliers
+- Description de l'activité 'Nerdy Derby' (x1 - en) : http://nerdyderby.com/
+- Activités de l'Exploratorium (x15 - en) : http://tinkering.exploratorium.edu/projects
+- Liste de ressources de la YALSA (Young Adults Library Services Association) (x10 - en) : http://libraries.idaho.gov/page/program-ideas-activities-and-events 
+- Activités autour de l'impression 3D proposées par MakerBot (x4 - en) : http://pages.makerbot.com/download-makerbot-in-the-classroom.html
+- Activités proposées par Sparkfun Electronics (x11 - en) : https://learn.sparkfun.com/resources/tags/curriculum 
+- Exemples d'activités par la Fayetteville Free Library (x4 - en) : http://fflib.org/make/little-makers
+- Activités pratiques à faire en bibliothèque (x100+ - en) : http://makeitatyourlibrary.org/
+- Activités en FabLab pour jeunes (x8 - fr) : http://fablabo.net/wiki/Cat%C3%A9gorie:OpenEducation
+- Liste de ressources par le Teen Librarian Toolbox (x15 - en) : http://www.teenlibrariantoolbox.com/2013/11/the-pop-upmobile-makerspace-moment/
+- Le curriculum proposé par Maker Jawn (x35 - en) : http://makerjawn.org/maker-jawn-curriculum/

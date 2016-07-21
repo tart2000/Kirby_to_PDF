@@ -187,6 +187,10 @@ p {
   orphans: 2;
   widows: 2;
   text-align: justify;
+  prince-text-replace: ' !' '\A0!';
+  prince-text-replace: ' ?' '\A0?';
+  prince-text-replace: ' ;' '\A0;';
+  prince-text-replace: ' :' '\A0:';
 }
 li {
   margin-left: 20px;
@@ -225,11 +229,11 @@ li {
     font-size: 9pt;
   }
 }
-@page {
+/*@page {
   @top {
     content: 'Version de travail - Ne pas diffuser';
   }
-}
+}*/
 
 @page:first {
   @bottom-right {

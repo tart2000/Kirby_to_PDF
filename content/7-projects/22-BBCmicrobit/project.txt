@@ -1,0 +1,64 @@
+Title: BBC micro:bit
+
+----
+
+En: 7
+
+----
+
+Typologie: Plateforme programmable
+
+----
+
+Mission: Get creative, get connected, get coding(fn: "soit créatif, soit connecté, apprend à coder")
+
+----
+
+Text: Pour être un bon maker, autant commencer de bonne heure. C’est le constat de la BBC qui lance Make it Digital, campagne massive de sensibilisation à la programmation destinée aux enfants. A partir de l’automne 2015, le groupe audiovisuel britannique distribuera aux élèves de la fin de primaire un million de Micro Bit, un micro-contrôleur intuitif encore en phase de développement (et dont le nom est susceptible de changer, prévient la BBC). Le Micro Bit, développé en partenariat avec 25 groupes et entreprises (de Cisco à l’Open University en passant par Microsoft et Barclays), pourra à terme se connecter et communiquer avec les autres cartes du marché type Arduino, Galileo, Kano et Raspberry Pi(fn: Makery http://www.makery.info/2015/03/24/la-bbc-offre-1-million-de-micro-bit-aux-enfants/).
+
+----
+
+Jeunes: à fond.
+
+----
+
+Ou: UK
+
+----
+
+Contact: 
+
+----
+
+Moyens: 
+
+- BBC + écoles 
+- partenariats avec des entrerpises (Microsoft, Intel, etc.)
+
+----
+
+Facteurs: 
+
+- L'échelle impressionnante du projet (un pour chaque enfant)
+- Créer du matériel informatique (*hardware*) spécifique : ambitieux et impressionnant, surtout pour un média 
+- Partenaires techniques variés impliqués dès le début
+
+----
+
+Web: Super bien. Avec possibilité de coder en ligne, d'accéder à de la documentation etc.
+
+----
+
+Itw: FALSE
+
+----
+
+Theurl: https://www.microbit.co.uk
+
+----
+
+Pic: https://ichef.bbci.co.uk/images/ic/944x531/p02wfdrx.jpg
+
+----
+
+Logo: http://www.microbit-spy.co.uk/wp-content/uploads/2015/07/bbc_micro_bit_logo-672x372.png

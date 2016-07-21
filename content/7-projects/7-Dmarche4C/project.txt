@@ -1,0 +1,80 @@
+Title: Démarche 4C
+
+----
+
+En: 3
+
+----
+
+Typologie: Tiers-lieu
+
+----
+
+Mission: Créativité / Collaboration / Culture / Citoyenneté
+
+----
+
+Text: 
+
+Nouvel démarche en développement dans les Champs Libres. Les Rendez-vous 4C sont ouverts à tous. Toute personne peut proposer une nouvelle rencontre ou atelier à faire vivre ensemble. Les Rendez-vous 4C, basés sur des principes d'ouverture et de collaboration, facilitent les croisements entre citoyens curieux et créatifs !
+- Ils sont ouverts à toutes personnes qui souhaite y participer 
+- Ils peuvent durer deux heures, une journée entière ou plusieurs jours de suite (selon les horaires d’ouvertures des Champs Libres)
+- Ils sont gratuits et basés sur une participation bénévole.
+- Ils aboutissent à un résultat produit en commun (prototypes, maquette, objet, contenu co-rédigé, dessins, photos…) qui incarne la collaboration de tous les participants. 
+- Le déroulement de l'atelier et le résultat final sont documentés, sous licence libre, de façon à pouvoir être rediffusé et servir à d'autres le plus largement possible.
+
+----
+
+Jeunes: - ouvert à tous les publics
+
+----
+
+Ou: Rennes, France
+
+----
+
+Contact: Samuel Bausson
+
+----
+
+Moyens: 
+
+- Un accès (Très) Haut Débit à Internet est un préalable indispensable : idéalement par Ethernet, avec en complément 1 borne WiFi sécurisé.
+- Un espace serveur est également nécessaire, pour l'hébergement du site web, l'organisation des documentations, la mise à disposition des infos, le partage des documents...
+- 2-3 ordinateurs recyclés / réparés, avec OS libre (de type GNU Linux Mint...),
+- 5 ordinateurs à monter soi-même (dans le cadre d'un projet) sous Raspberry Pi
+- 1 imprimante 3D + bobines
+- 10 cartes de prototypage Arduino / Genuino pour différents ateliers,
+- 2 Kits de découverte de l'électronique / objets connectés de marque LittleBits
+- Petits matériels électroniques (écrans, capteurs, moteurs, LEDS, composants divers, câbles...)
+- Outils pour montages électroniques (tournevis de précision, matériel de mesure, fer à souder...)
+- 1 vidéo-projecteur
+
+----
+
+Facteurs: 
+
+- Implication des utilisateurs (porté par les utilisateurs)
+- Association dédiée ouverte vers l'extérieur
+- Zéro programmation prévue au moment de l'ouverture du lieu 
+- Démarrage 'avec les moyens du bord' (*bootstraping*)
+
+----
+
+Web: rien pour l'instant
+
+----
+
+Itw: TRUE
+
+----
+
+Theurl: http://lesrdv4c.tumblr.com/
+
+----
+
+Pic: http://metropole.rennes.fr/fileadmin/rrm/documents/Actualites/Culture/images/Dynamo_culturelle_DG_20cc.jpg
+
+----
+
+Logo: http://www.eco.univ-rennes1.fr/digitalAssets/254/254035_champs_libres.png
