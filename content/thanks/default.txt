@@ -1,0 +1,19 @@
+Title: thanks
+
+----
+
+Text: 
+
+*This is an awesome PDF report*
+
+*Please use it wisely and don't burn your eyes*
+
+_
+
+Main writer: 
+- **John Doe**
+
+Also : 
+- **Alfred Bulevard**
+- **Acme Filouti**
+- **Ripel Valmont**

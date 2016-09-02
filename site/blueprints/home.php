@@ -6,7 +6,15 @@ fields:
   title:
     label: Title
     type:  text
-  text:
-    label: Text
-    type:  textarea
-    size:  large
+  coverimage: 
+	label: Main Post Image
+    type:  selector
+    mode:  single
+    types:
+        - image
+  logoimage:
+  	label: Logo image
+  	type: selector 
+  	mode: single
+  	types: 
+  		-image

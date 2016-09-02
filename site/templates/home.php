@@ -1,23 +1,35 @@
 <?php snippet('header') ?>
 
 <div id="cover" class="page">
-	<div class="coverimage">
-		<img src="assets/images/rh2.png"/>
-	</div>
-	<div class="logo">
-		<img src="assets/images/logo_rz.png"/>
-	</div>
+	<?php  $cover = $page->coverimage()->toFile(); ?>
+	<?php if ($page->coverimage() != '') : ?>
+		<div class="coverimage">
+			<img src="<?php echo $cover->url() ?>"/>
+		</div>
+	<?php endif ?>
+
+	<?php $logo = $page->logoimage()->toFile(); ?>
+	<?php if ($page->logoimage() != '') : ?>
+		<div class="logo">
+			<img src="<?php echo $logo->url() ?>"/>
+		</div>
+	<?php endif ?>
+
 	<div class="title">
 		<h1><?php echo $site->title() ?></h1>
 		<h3><?php echo $site->description() ?></h3>
-		<p>Juillet 2016</p>
+		<p><?php 
+			date_default_timezone_set('UTC'); 
+			setlocale(LC_ALL, 'fr_FR');
+			echo strftime('%A %e %B %Y'); 
+		?></p>
 	</div>
 </div>
 
 <div class="page centered">
 	<div class="content">
 		<div class="text">
-			<?php echo page('disclaimer')->text()->kirbytext() ?>
+			<?php echo page('thanks')->text()->kirbytext() ?>
 		</div>
 	</div>
 </div>
@@ -37,30 +49,6 @@
 			<h1 id="<?php echo $p->uid() ?>"><?php echo $p->title() ?></h1>
 			<?php echo $p->text()->kirbytext() ?>
 		<?php endif ?>
-
-		<!-- enjeux -->
-		<?php if($p->template() == 'piliers') : ?>
-			<h1 id="<?php echo $p->uid() ?>"><?php echo $p->title() ?></h1>
-			<?php echo $p->text()->kirbytext() ?>
-			<?php foreach ($p->children() as $pil) : ?>
-				<h2><?php echo $pil->title() ?></h2>
-				<?php if ($pil->labtype()!=''): ?>
-					<em>Type d'espace : <?php echo $pil->labtype() ?></em></br>
-				<?php endif ?>
-				<?php if ($pil->activityex()!=''): ?>
-					<em>Activités types : <?php echo $pil->activityex() ?></em></br>
-				<?php endif ?>
-				<?php if ($pil->missionex()!=''): ?>
-					<em>Exemple de mission : "<?php echo $pil->missionex() ?>"</em>
-				<?php endif ?>
-				<?php echo $pil->text()->kirbytext() ?>
-				<?php if ($pil->pic()!='') : ?>
-					<img src="<?php echo $pil->pic() ?>">
-					<em>Source de l'image : <?php echo $pil->pic() ?></em>
-				<?php endif ?>
-			<?php endforeach ?>
-		<?php endif ?>
-		<!-- fin page enjeu -->
 
 		<!-- projects -->
 		<?php if($p->template() == 'projects') : ?>
@@ -120,7 +108,7 @@
 			<?php echo page('contact')->text()->kirbytext() ?>
 		</div>
 		<div class="logo_back">
-			<img src="assets/images/carre_rhizome_500px.png"/>
+			<img src="<?php echo $logo->url() ?>"/>
 		</div>
 	</div>
 </div>

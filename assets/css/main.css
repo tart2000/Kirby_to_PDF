@@ -191,14 +191,14 @@ li {
   @bottom-right { 
     margin: 10pt 60pt 30pt 0;
     border-top: .25pt solid #666;
-    content: "Rhizome 2016 - " counter(page);
+    content: counter(page);
     font-size: 9pt;
     font-family: sans-serif;
   }
 }
 @page :left {
   @top-left {
-    content: "Projet Saint-Sulpice - état des lieux et prospective";
+    content: "";
     font-size: 9pt;
     margin-left: 60pt;
     font-family: sans-serif;
@@ -206,7 +206,7 @@ li {
   @bottom-left { 
     margin: 10pt 0 30pt 60pt;
     border-top: .25pt solid #666;
-    content: counter(page) " - Rhizome 2016";
+    content: counter(page);
     font-size: 9pt;
     font-family: sans-serif;
   }
