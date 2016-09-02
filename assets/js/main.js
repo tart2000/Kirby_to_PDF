@@ -15,20 +15,15 @@
 // gethigh('engagement','#C8F526','bell');
 
 
-$("p").each(function(){
-    $this = $(this);
-    $this.html($this.html().replace("St ", "Saint "));
-});
+// $("p").each(function(){
+//     $this = $(this);
+//     $this.html($this.html().replace("St ", "Saint "));
+// });
 
-$("p").each(function(){
-    $this = $(this);
-    $this.html($this.html().replace("Saint Sulpice", "Saint-Sulpice"));
-});
-
-$("p").each(function(){
-    $this = $(this);
-    $this.html($this.html().replace("incubateur Saint-Sulpice", "Incubateur Saint-Sulpice"));
-});
+// $("p").each(function(){
+//     $this = $(this);
+//     $this.html($this.html().replace("Saint Sulpice", "Saint-Sulpice"));
+// });
 
 var InstantSearch = {
 

@@ -9,19 +9,15 @@
 	</div>
 	<div class="title">
 		<h1><?php echo $site->title() ?></h1>
-		<strong><?php echo $site->description() ?></strong></br>
-		<p><?php 
-			date_default_timezone_set('UTC'); 
-			setlocale(LC_ALL, 'fr_FR');
-			echo strftime('%A %e %B %Y'); 
-		?></p>
+		<h3><?php echo $site->description() ?></h3>
+		<p>Juillet 2016</p>
 	</div>
 </div>
 
-<div class="page">
+<div class="page centered">
 	<div class="content">
-		<div class="disclaimer">
-				<?php echo page('disclaimer')->text()->kirbytext() ?>
+		<div class="text">
+			<?php echo page('disclaimer')->text()->kirbytext() ?>
 		</div>
 	</div>
 </div>
@@ -119,11 +115,13 @@
 </div>
 
 <div class="page">
-	<div class="logo_back">
-		<img src="assets/images/logo_rz.png"/>
-	</div>
-	<div class="contact">
-		<?php echo page('contact')->text()->kirbytext() ?>
+	<div class="content">
+		<div class="centered">
+			<?php echo page('contact')->text()->kirbytext() ?>
+		</div>
+		<div class="logo_back">
+			<img src="assets/images/carre_rhizome_500px.png"/>
+		</div>
 	</div>
 </div>
 

@@ -16,7 +16,7 @@ Mission: Espace de diffusion, de rencontre, de documentation, de recherche et de
 
 Text: 
 
-- Medialab Prado est un laboratoire citoyen de production, de recherche et de diffusion de projets culturels qui explore les formes d'expérimentation et d'apprentissage collaboratif qui ont émergé des réseaux numériques. Il fait partie du ministère de la Culture et des Sports de la Mairie de Madrid. Ses objectifs : 
+Medialab Prado est un laboratoire citoyen de production, de recherche et de diffusion de projets culturels qui explore les formes d'expérimentation et d'apprentissage collaboratif qui ont émergé des réseaux numériques. Ses objectifs : 
 - Offrir une plate-forme ouverte qui invite et permette aux utilisateurs d'intervenir sur les processus de recherche et de production .
 - Soutenir une communauté active d'utilisateurs à travers le développement de projets collaboratifs.
 - Offrir de multiples formes de participation qui permettent aux personnes ayant des profils différents (artistique, scientifique , technique), de niveaux différents (experts et débutants) et différents degrés d'implication, de collaborer ensemble(fn: librement traduit du site).

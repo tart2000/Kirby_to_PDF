@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - determinants
-  - contexte
-  - resum-ex-cutif
   - annexes
-  - projects/InstituteofPlay
+  - determinants
+  - disclaimer
+  - resum-ex-cutif
+  - projects/FayetteFreeLibraryFabLab

@@ -21,7 +21,7 @@ Nouvel démarche en développement dans les Champs Libres. Les Rendez-vous 4C so
 - Ils peuvent durer deux heures, une journée entière ou plusieurs jours de suite (selon les horaires d’ouvertures des Champs Libres)
 - Ils sont gratuits et basés sur une participation bénévole.
 - Ils aboutissent à un résultat produit en commun (prototypes, maquette, objet, contenu co-rédigé, dessins, photos…) qui incarne la collaboration de tous les participants. 
-- Le déroulement de l'atelier et le résultat final sont documentés, sous licence libre, de façon à pouvoir être rediffusé et servir à d'autres le plus largement possible.
+- Le déroulement de l'atelier et le résultat final sont documentés, sous licence libre.
 
 ----
 

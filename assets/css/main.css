@@ -12,28 +12,8 @@ Email:  support@getkirby.com
 /* Source Sans Pro
 -------------------------------------------------- */
 @font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 300;
-  src: url(../fonts/sourcesanspro-300.woff) format('woff');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: url(../fonts/sourcesanspro-400.woff) format('woff');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 600;
-  src: url(../fonts/sourcesanspro-600.woff) format('woff');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: italic;
-  font-weight: 400;
-  src: url(../fonts/sourcesanspro-400-italic.woff) format('woff');
+  font-family: 'Nexa';
+  src: url(../fonts/NexaLight.otf);
 }
 
 
@@ -79,7 +59,7 @@ a:hover {
 html, body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: "Nexa", sans-serif;
   color: #222;
 }
 
@@ -130,6 +110,7 @@ h1 a, h2 a, h3 a, h4 a {
   max-width: 8.5in;
   padding-right: 60pt;
   padding-left: 60pt; 
+  font-family: "Nexa";
 }
 .page, .content {
   margin-left: auto;
@@ -167,18 +148,19 @@ h3 {
 h4 {
   margin-top: 18px;
 }
-table, figure, img {
+figure, img {
   margin-top: 15pt;
   page-break-inside: avoid;
+}
+table {
+  margin-top: 15pt;
 }
 blockquote {
   background: #f9f9f9;
   border-left: 5px solid #ccc;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-}
-blockquote p {
-  display: inline;
+  page-break-inside: avoid;
 }
 p {
   margin-top: 5px;
@@ -194,39 +176,39 @@ p {
 }
 li {
   margin-left: 20px;
+  text-align: justify;
 }
 
 @page:first {
   margin: 0;
 }
 @page :right {
-  @bottom-left {
-    margin: 10pt 0 30pt 60pt;
-    border-top: .25pt solid #666;
+  @top-right {
     content: string(doctitle);
     font-size: 9pt;
-    color: #333;
+    margin-right: 60pt;
   }
   @bottom-right { 
     margin: 10pt 60pt 30pt 0;
     border-top: .25pt solid #666;
-    content: counter(page);
+    content: "Rhizome 2016 - " counter(page);
     font-size: 9pt;
+    font-family: sans-serif;
   }
 }
 @page :left {
-  @bottom-right {
-    margin: 10pt 60pt 30pt 0;
-    border-top: .25pt solid #666;
-    content: string(doctitle);
+  @top-left {
+    content: "Projet Saint-Sulpice - état des lieux et prospective";
     font-size: 9pt;
-    color: #333;
+    margin-left: 60pt;
+    font-family: sans-serif;
   }
   @bottom-left { 
     margin: 10pt 0 30pt 60pt;
     border-top: .25pt solid #666;
-    content: counter(page);
+    content: counter(page) " - Rhizome 2016";
     font-size: 9pt;
+    font-family: sans-serif;
   }
 }
 /*@page {
@@ -236,25 +218,26 @@ li {
 }*/
 
 @page:first {
+  @top-right {
+    content: normal;
+  }
   @bottom-right {
     content: normal;
     margin: -10pt;
   }
-
   @bottom-left {
     content: normal;
     margin: -10pt;
   }
-  @top {
-    content: '';
-  }
 }
+
 
 /* Footnotes  
 -------------------------------------------------- */
 
 .fn {
   float: footnote;
+  font-size: 8pt;
   prince-footnote-policy: keep-with-block;
 }
 .fn {
@@ -262,7 +245,7 @@ li {
 }
 .fn::footnote-call {
   content: counter(footnote);
-  font-size: 9pt;
+  font-size: 7pt;
   vertical-align: super;
   line-height: none;
 }
@@ -363,13 +346,23 @@ ul.toc a::after {
 .icon {
   position: absolute;
   left: 20pt;
+  background-color: white; 
+  padding: 2px;
 }
 thead {
   background-color: white;
 }
 table {
-  background-color: #efefef;
+  background-color: #eeeeee;
   width: 100%;
+  font-size: 0.9em;
+}
+td {
+  padding: 5px;
+  background-color: #f4f4f4;
+}
+th {
+  padding: 5px;
 }
 .rap li:first-child {
   display: none;
@@ -380,12 +373,15 @@ table {
 img {
   margin-bottom: 20px;
 }
-.disclaimer {
+.logo_back>img{
+  max-width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.centered {
   margin-top: 300px;
 }
-.logo {
-
-}
-.contact {
-  margin-top: 300px;
+.proj p, .proj li {
+  font-size: 0.9em;
+  letter-spacing: 
 }

@@ -1,4 +1,4 @@
-Title: Incubateur Saint Sulpice
+Title: Incubateur Saint-Sulpice
 
 ----
 
@@ -10,7 +10,7 @@ Description: État des lieux et recommandations
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: Kirby,CMS,file-based
 
 ----
 
