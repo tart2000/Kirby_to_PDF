@@ -3,3 +3,11 @@ Title: Home
 ----
 
 Text: Text here isn't picked up anywhere in the document
+
+----
+
+Coverimage: photo-1471705301355-ec78367a7b07.jpg
+
+----
+
+Logoimage: logo_tv_2015.png

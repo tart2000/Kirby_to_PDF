@@ -1,12 +1,12 @@
-Title: Incubateur Saint-Sulpice
+Title: Project title
 
 ----
 
-Author: Rhizome Strategies
+Author: Kirby to PDF
 
 ----
 
-Description: État des lieux et recommandations
+Description: Something about to be made awesome
 
 ----
 

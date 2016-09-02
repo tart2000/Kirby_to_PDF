@@ -22,6 +22,7 @@ Also, footnotes count restartes at each new part.
 
 A table of content will be automatically built on page 2. 
 It will take all the different parts titles and add the page numbers. 
+Also, page numbers will be added automatically. 
 
 #Cover
 

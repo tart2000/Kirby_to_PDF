@@ -7,14 +7,14 @@ fields:
     label: Title
     type:  text
   coverimage: 
-	label: Main Post Image
-    type:  selector
-    mode:  single
+    label: Background cover image
+    type: selector
+    mode: single
     types:
         - image
   logoimage:
-  	label: Logo image
-  	type: selector 
-  	mode: single
-  	types: 
-  		-image
+    label: Logo image
+    type: selector 
+    mode: single
+    types: 
+        - image
