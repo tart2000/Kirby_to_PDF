@@ -1,0 +1,29 @@
+Title: Constat
+
+----
+
+Text: 
+
+Notre recherche nous a permis d’identifier plusieurs points de tension dans le modèle actuel : 
+
+- **Responsabilité** : L’organigramme n’est pas clair, donc les responsabilités ne sont pas claires. 
+- **Imputabilité** : Tout le monde fait bien son travail, avec en tête le fait que les activités commerciales (SAPA) sont là pour renflouer les activités à perte. Mais personne ne sait ni combien, ni comment. 
+- **Hétérogénéité** : On s’attendait à constater une hétérogénéité fonctionnelle, ou de service entre les centre, mais dans les faits, il s’agit plus d’une hétérogénéité culturelle. L’ambiance de travail pour les employés et les dynamiques internes changent du tout au tout. 
+- **Pérennité** : Du fait de son ancienneté historique et de son parc immobilier, le YMCA envoie une image de solidité mais dans les faits, le YMCA ne s’est jamais considéré comme un gestionnaire immobilier. Les locaux sont souvent vus comme un ‘apport gratuit’ aux services communautaires. 
+- **Flou** : Le YMCA a un grand nombre de programmes et il est impossible d’en avoir une vision claire (que ça soit en interne ou en externe)
+
+Ce rapport ne cherche en aucun cas à pointer du doigt des ‘bons’ ou des ‘mauvais’ joueurs. Nous nous contentons de faire des constats et proposer des pistes de solution. 
+Par ailleurs, on pourra s’étonner du fait que ce rapport dépasse largement, en envergure, les trois centres qui ont été étudiés. En effet, nous sommes convaincus que les problèmes identifiés dans ces centres trouvent leur origine plus profondément dans l’organisation. Mais afin de ne pas les perdre de vue, nous proposons à la fin quelques exemples de projets qui illustrent la manière dont ils pourraient évoluer. 
+
+Avant d’aller plus loin, et pour bien comprendre d’où viennent les propositions qui suivent, nous nous sommes fixés plusieurs ‘points de départ’, qui correspondent en quelques sortes à des contraintes de design : 
+
+1. Les problèmes auxquels le YMCA fait face sont complexes et structurels et ne peuvent donc pas se contenter d’une réponse ‘simple’. Il faut aussi travailler sur la culture de l’organisation.
+1. Il ne faut pas avoir des systèmes bénéficiaires d’un côté (SAPA) et des systèmes à perte de l’autre (communautaire). Il faut imaginer des modèles mixtes. 
+1. En prenant une posture de gestionnaire d’immeuble, le YMCA pourrait faire émerger des solutions durables.
+1. Le YMCA bénéficie d’une bonne image et a de bonnes relations avec sa clientèle (au sens large), qui peut être valorisée à travers différents programmes et dynamiques de création de valeur.
+
+De plus, le YMCA fait face à des questions et des dualités internes : 
+
+- Est-ce que viser une clientèle plus payante veut dire abandonner les populations les plus fragiles (et donc la mission sociale) ? Alors que l’objectif est d’avoir le plus d’impact possible
+- Les clients SAPA sont-ils sensibles à la cause YMCA ? Doit-on communiquer aux clients ‘payants’ sur les programmes communautaires ? 
+- Comment intégrer la technologie tout en gardant un aspect ‘humain’ ?

@@ -4,16 +4,13 @@ Title: thanks
 
 Text: 
 
-*This is an awesome PDF report*
-
-*Please use it wisely and don't burn your eyes*
+*Synthèse de l'étude effectuée à la demande du YMCA*
 
 _
 
-Main writer: 
-- **John Doe**
+Rédaction : 
+- **Arthur Schmitt**
+- **Christophe Billebaud**
 
-Also : 
-- **Alfred Bulevard**
-- **Acme Filouti**
-- **Ripel Valmont**
+Avec l'aide de : 
+- **David Santelli**

@@ -1,0 +1,112 @@
+Title: Y Solidaire
+
+----
+
+Text: 
+
+##Expérience client 
+###Le basculement lié à la révolution numérique
+Dans les 20 dernières années, le numérique a amené des changements de fond dans la manière dont nous travaillons, consommons, nous divertissons ou produisons. 
+
+On a pu croire un temps ces changements circonscrits à une partie de la population (militants, technophiles, jeunes, etc.) ou à certains pans de la société (communication, divertissement, etc.). Ils sont en fait en train de s’installer de manière durable et profonde dans l'ensemble de la société, avec des impacts directs sur ‘le monde réel’. Les nouveaux outils - ainsi que les modèles d’affaire et pratiques associés - dessinent les contours d’un nouveau rapport au travail, à la consommation, à la production et à l’apprentissage. 
+
+Bien entendu, les secteurs du sport, de l’alimentation ou de l’éducation n’y échappent pas. 
+
+Dans le cadre de notre étude, la révolution numérique peut être définie par les points suivants :
+
+- Transversalité totale : Le numérique n’est pas un secteur. Il touche tous les secteurs. 
+- De la rareté à l’abondance : L’enjeu n’est plus l’accès à l’information - elle est partout (ou doit l’être). 
+- Le règne de la donnée : La création et le traitement de données est au coeur de la création de valeur. C’est aussi la base de la personnalisation. 
+
+On a ainsi pu constater un déplacement de la création de création de valeur au plus proche du client. Ceux qui arrivent à maîtriser l’interface avec le client sont ceux qui génèrent le plus de valeur et des acteurs historiques qui n’ont pas intégré ces changements et/ou n’ont pas sû s’adapter se retrouvent aujourd’hui en difficulté majeure. 
+
+De fait, le “brick & mortar” (et plus largement, les actif physiques) devient ainsi une commodité. AirBnB offre plus de lits que la plus grande des chaînes d’hôtels, mais n’en possède aucun. Uber, la plus grande compagnie de taxis au monde, ne détient aucune voiture. 
+
+###Les nouvelles attentes du consommateur 
+Avec la révolution numérique, les attentes des consommateurs évoluent aussi. 
+On peut les synthétiser sous quatre axes : 
+
+1. **Exigence** : ils deviennent de plus en plus exigeants et n’acceptent plus les interfaces vieillissantes (en ligne ou ailleurs). Ils attendent de leur banque, des services publics, de leurs outils de travail, la même qualité de service (navigation, fluidité, rapidité, etc.) qu’ils retrouvent à travers Facebook, Netflix et les autres services en ligne qu’ils utilisent au quotidien. 
+1. **Mobilité** : une grande partie des interactions avec les clients passe maintenant par le mobile, que ça soit par le web, des applications ou des messages textes. Ils veulent pouvoir tout faire à travers leur téléphone intelligent (abonnements, inscriptions, notifications, etc.). 
+1. **Efficacité** : étant connectés en permanence, leur temps est devenu précieux. Toute attente est du temps qu’ils pourraient passer à échanger sur les réseaux sociaux, travailler ou à se divertir. Ils attendent donc des services qu’ils utilisent qu’ils soient le plus efficaces possibles. 
+
+Nous nous concentrons ici sur les attentes du client YMCA, mais (on en parlera plus tard) les points soulevés concernent aussi les nouvelles attentes des bénéficiaires des programmes communautaires ainsi que les bénévoles. 
+
+###Les nouveaux horizons de l’expérience client 
+L’avènement du numérique offre une opportunité unique de repenser l’expérience client offerte par le YMCA. 
+La notion d’expérience client telle qu’elle est décrite dans ce rapport va bien au delà de l’interaction du client (ou du bénéficiaire) sur place dans les centres. Elle prend en compte tous les points de contact que l’usager peut avoir avec le YMCA. Par exemple : voir une affiche dans la rue, consulter le site internet pour chercher des horaires, recevoir un courriel de rappel, etc.  
+
+
+Mobile : pas seulement en dehors ! 
+
+
+Personnalisation (grâce aux technologies et aux données collectées) 
+Expérience 360 (vidéo, musique, merch)
+
+###Déplacement de la concurrence 
+La révolution numérique, combinée à cette approche orientée ‘expérience client’, oblige à prendre en compte un déplacement, ou un élargissement de la notion de concurrence. Avant, on pouvait se dire que les concurrents de SAPA étaient les autres salles de gym du quartier. Mais dans le cadre d’une approche ‘expérientielle’, on peut (par exemple) se rendre compte que la raison principale pour laquelle une personne vient au YMCA est pour le lien social. Selon cette approche, les concurrents du YMCA ne sont plus les autres salles de sport, mais plutôt les cafés du quartier, les clubs sociaux, et, pourquoi pas, Facebook… Il ne s’agit donc plus de convaincre de venir au YMCA en cherchant à battre les prix des clubs de sport voisins, mais d’offrir une expérience qui sera plus enrichissante que celle offerte par les réseaux sociaux. 
+
+De la même manière, une personne peut venir à la gym pour perdre du poids. Dans ce cas, les concurrents sont tous les dispositifs qui pourront lui permettre d’atteindre cet objectif : les programmes Weight Watchers, un coach personnel ou une application. 
+On comprend bien comment certaines offres dématérialisées (applications mobiles, plateformes web, réseaux sociaux, chaines TV, etc.) peuvent donc venir concurrencer directement le YMCA. Il appartient donc au YMCA de valoriser ses différences, ce qu’il a de plus à offrir : les lieux physiques, l’interaction humaine, etc. 
+On peut ainsi imaginer comment le YMCA pourrait aider des prescripteurs technologiques à ajouter ces éléments à travers des expériences complémentaires fixées par des partenariats. 
+
+###Partenariats 
+(cf. World Economic Forum) 
+
+Grameen a opéré une diversification importante des activités au Bengladesh en développant les partenairiats. Sa stratégie a été de créer des joint-ventures avec les leaders mondiaux dans une variété de secteurs. En voici quelques exemples :
+Grameen Phone, créée en 1996, joint-venture avec Telenor, un opérateur norvégien de téléphonie mobile
+Grameen Danone Foods, créée en 2005, qui produit et distribue des yaourts concentrés en micro-nutriments destinés aux enfants pauvres, dans le but de lutter contre la malnutrition
+Grameen Veolia Water, créée en 2008, qui fournit de l’eau potable aux populations rurales dans un contexte de contamination à l’arsenic des nappes phréatiques
+Ces structures sont qualifiées par M. Yunus de « social business ». C’est- à-dire qu’elles suivent le principe du « no loss, no dividend » (pas de pertes, pas de dividendes). Cette stratégie d’alliances a été guidée par le fait que Grameen ne maîtrisait pas les technologies nécessaires pour développer ces nouveaux produits, mais aussi par le constat que les multinationales occidentales jouissent d’une très bonne image au Bangladesh. Ces marques sont un gage de confiance et de modernité pour la plupart des habitants. Ces rapprochements peuvent prendre la forme de partenariats, de joint-ventures ou d’acquisitions(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9).
+
+###Accès à de nouveaux marchés 
+Nous avons pu observer aussi au cours du benchmark qu’il n’est pas rare pour une organisation de profiter de sa notoriété et de sa base de supporters pour élargir ses activités à d’autres champs, qui peuvent parfois être assez éloignés de son coeur de métier. 
+
+Du côté du sport, de nombreuses organisations proposent des produits complémentaires à leurs utilisateurs. Et le premier axe est souvent la nutrition, car il est facile de passer du sport au ‘mode de vie’. Mais les produits proposés sont souvent des boîtes de protéines - qui sont facilement entreposables et permettent une marge confortable pour l’organisation - mais qui sont souvent associés à une pratique du sport ‘extrême’ (bodybuilding) qui ne correspond pas à tout le monde. 
+
+Certains vont beaucoup plus loin que la nutrition. Les Mills, qui proposent au départ des programmes de gym, proposent maintenant toute une gamme de produits différents. Ils vendent des accessoires (haltères, etc.) associés à leurs programmes, mais ils ont aussi fait un partenariat avec Reebok pour concevoir une gamme de vêtements. Ils vont même jusqu’à vendre des compilations musicales des différents titres qui sont écoutés lors de leurs cours. 
+
+Un des exemples récents est le lancement de Patagonia Provisions, une nouvelle division de l’entreprises Patagonia dédiée à la vente en ligne de produits alimentaires. De l’habillement à la nourriture, le grand écart peut paraître assez ambitieux. Mais en réalité, les supporters de Patagonia connaissent l’engagement écologique de l’entreprise. Il s’agit donc de transformer un nouveau secteur, tout en gardant la mission écologique de départ. Et pour se faire, ils s’appuient sur un réseau de petits producteurs impliqués dans la régénération des sols (et de l’écosystème, plus généralement). On peut voir d’ailleurs que le site internet Patagonia Provisions ne ressemble pas du tout à un site de vente en ligne ‘classique’. Les éléments qui sont mis en avant ne sont pas les produits, mais plutôt les histoires qui les accompagnent (le producteur et ses méthodes). 
+
+
+Exemple(s) benchmark : 
+
+- **Habit** utilise des tests sanguins et ADN pour pouvoir recommander un programme de nutrition spécialement adapté au métabolisme et au style de vie du client (appuyé par plusieurs années de recherche). Ils proposent ensuite des recettes et même de la livraison à domicile de plats préparés. Cet exemple illustre surtout jusqu’à quel niveau on peut pousser la personnalisation. 
+- **Social Bite** est une chaîne de restauration rapide à vocation sociale basée en Ecosse. Ils cherchent à aider les gens à sortir de la rue en offrant de la nourriture et du travail. Un quart de leurs employés sont donc des itinérants en réinsertion. 
+
+À faire : 
+- Apprendre à connaître ses clients sur le bout des doigts (à travers les données collectées) et trouver le meilleur moyen / moment pour créer des points de contact 
+- Développer des expériences personnalisées (recommandations, notifications, invitations, etc.).
+- Identifier des partenaires qui pourraient générer un partenariat d’intérêt mutuel 
+- Faire le tri dans les opérations 
+
+##Produit packagé - B2B 
+
+Une fois un produit (outil, service, etc.) développé pour leur usage interne, certaines organisations ont réussi à le mettre en marché pour que d’autres puissent l’utiliser. 
+
+
+Aussi, si besoin, développer ses propres outils. Avec un partenaire technologique ? 
+C’est un axe qui peut permettre de passer à l’échelle. On le voit souvent dans les domaines spécialisés : par exemple, une entreprise TI vient réaliser un projet de gestion sur-mesure pour une clinique. Une fois le produit développé et en s’assurant qu’il répond parfaitement aux besoins spécifiques de la clinique, l’entreprise décide de le ‘packager’ pour le proposer (souvent sous forme d’abonnement récurrent) comme un produit complet à d’autres cliniques.  
+
+###Aller vers des marchés périphériques 
+Exemple fitness vers food / nutrition 
+(un exemple qu’on a vu plusieurs fois dans les exemples) 
+
+
+Economie d’échelle 
+Voir ce que l’on peut valoriser > contenus vidéo, etc. 
+
+Social franchise (TIESS) 
+Relation exigente 
+D’abord : un modèle d’affaire viable 
+Encadrer capacité d’innovation (besoin de ce surplus pour le réinvestir pour avoir plus d’impact encore) 
+Travail en cours ~
+
+Licences 
+
+Exemple(s) benchmark : 
+
+- **Les Mills** offrent un ainsi des programmes ‘clé en main’ pour les salles de sport. Mais ils ne s’arrêtent pas là. Ils mettent aussi à disposition leur outil de gestion de salle de sport, qui permet de faire des inscriptions, de la facturation, etc. De cette manière, ils ont pu se développer bien plus que s’ils avaient tenté d’ouvrir de nouvelles salles de sport. En faisant cette transition, ils sont passés d’une clientèle individuelle (B2C) à une clientèle professionnelle (B2B). 
+Idea Lab Kids 
+
+À faire :

@@ -1,0 +1,74 @@
+Title: Exemples
+
+----
+
+Text: 
+
+Nous proposons ici quelques exemples de projets qui pourraient être mis en place par le YMCA. Ces projets ne sont pas à prendre au pied de la lettre, mais servent plutôt à illustrer la manière dont chacun des trois pôles (Y Bâtiment, Y Solidaire et Y Communauté) pourrait se développer et la manière dont il pourrait interagir avec les autres pôles. Ils cherchent aussi à mettre en lumière les trois métiers du YMCA (le sport sans jugement, la sécurité alimentaire et le développement des jeunes) qui pourraient être développés dans les trois centres étudiés (respectivement, Hochelaga Maisonneuve, St Laurent et Pointe St Charles).  
+
+##Hôtel Dieu
+###Contexte 
+
+###Concept
+Le pôle Y Bâtiment pourrait intervenir sur de la gestion de bâtiments qui n’appartiennent pas au YMCA, en incluant des partenaires extérieurs. 
+
+Par exemple, la Ville de Montréal a racheté une partie des bâtiments qui composent l’Hôtel Dieu et s’apprête à lancer un appel à projet pour imaginer des nouvelles utilisations. Dans ce cas, Y Bâtiment pourrait monter un projet avec des partenaires. Il s’occuperait de la gestion du bâtiment et pourrait inclure de l’espace pour que Y Communauté puisse y mener des projets à portée communautaire, et pourquoi pas, à Y Solidaire pour inclure des activités commerciales pas forcément sportives (restauration, point de vente, etc.). D’autres partenaires extérieurs pourraient amener des expertises complémentaires (organisation d’événements, éducation technologique, coworking, etc.). Par sa présence historique et sa notoriété, le YMCA pourrait naturellement être l’interlocuteur privilégié auprès des organisations décideuses (ville, province, etc.) et agir comme point de rassemblement pour des organismes de plus petite taille. 
+
+C’est ce genre de partenariat qui a récemment permis au Groupe SOS de gagner l’appel à projet pour la gestion du lieu emblématique de la French Tech à Lyon, en France. Le Groupe SOS, grâce à Alterna, amène son expertise en gestion de bâtiment et grâce à son nouveau pôle ‘culture’, l’aspect ingénierie culturelle. Les autres partenaires amènent chacun une expertise qui lui est propre. 
+http://www.usine-digitale.fr/article/un-trio-pour-exploiter-le-futur-batiment-totem-de-la-french-tech-lyonnaise.N487359 
+
+On pourra aussi s’inspirer des projets Les Grands Voisins, ou du futur Wiki Village Factory, à Paris. (https://medium.com/@REIHabitat/le-qg-de-la-ville-r%C3%A9siliente-sinstalle-%C3%A0-paris-5bf05a0c91a9#.sedg5c7io) 
+
+##Sécurité alimentaire et intégration (St Laurent) 
+###Contexte 
+
+###Concept 
+À St Laurent : pas que les communautés fragilisées
+Aussi, technoparc pas très loin qui peut avoir besoin d’un service de ‘catering’ de qualité. 
+Voir Brightbox > écosystème 
+Incubation genre HBK  
+Intégration (plats internationaux) 
+Centre de distribution fermes LUFA 
+
+Harlem Kids Zone (?) 
+
+##Sport sans jugement (Hochelaga) 
+###Contexte 
+Fort aspect de communauté 
+Les gens viennent de plus loin pour profiter de ça 
+###Concept 
+Ou caregivers ? 
+Ou héberger des programmes montés par d’autres ? Transformer les gens en profs de sport ? 
+
+##Développement des jeunes (Pointe St Charles) 
+###Contexte 
+Qu’est-ce qu’il y a comme boites dans le coin qui pourraient être intéressées ? 
+Toit terrasse 
+Accéder aux 15-25 > que le Y n’arrive pas vraiment à atteindre 
+
+###Concept 
+Réalisation par le ‘faire’ (confiance en soi, etc.) Faire pour devenir 
+Volet payant ? 
+Jeunes qui vendent du service web / graphisme / vidéo aux autres centres 
+> Connaissent les RS et Youtube 
+Palient aux besoins de communication des autres centres 
+Besoin plateau technique + matériel 
+Créativité + technologie 
+Web radio communautaire / web TV  
+Web radio diffusée dans les autres centres etc. Podcasts 
+Documenter des projets etc. > impliquer ONF + Radio Can 
+Inspiration d’autres projets (Square à MTL, The Mix aux US, etc.) 
+Inspiration du connected learning (apprentissage connecté) > cf. recherche BAnQ 
+Niveau activation ?? 
+
+Genre Youtube Space Toronto monté à George Brown College, une école publique de cinéma et de design, depuis 2016. Un de 9 centres (ou spaces) dans le monde. 
+Liam Collins, head of youtube Spaces Americas  
+
+Offre corpo : accès au studios pour vidéos etc. 
+Exemple Loréal a monté un espace Youtube pour ses employés 
+
+En terme de rénovations possible, cela implique de faire de la place à des studios (vidéo, son, enregistrement, montage, etc.) équipés de matériel adéquat (ordinateurs et logiciels, micros, etc.). 
+
+Pourrait aller chercher des partenariats, à l’image de http://www.chevronstemzone.com/ 
+
+##Formatech (?)

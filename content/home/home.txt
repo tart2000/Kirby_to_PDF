@@ -6,8 +6,8 @@ Text: Text here isn't picked up anywhere in the document
 
 ----
 
-Coverimage: photo-1471705301355-ec78367a7b07.jpg
+Coverimage: rh2.png
 
 ----
 
-Logoimage: logo_tv_2015.png
+Logoimage: logo_rhizome_fond_blanc_132px.jpg

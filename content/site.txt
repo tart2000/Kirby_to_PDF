@@ -1,12 +1,12 @@
-Title: Project title
+Title: Rapport de synthèse
 
 ----
 
-Author: Kirby to PDF
+Author: Rhizome
 
 ----
 
-Description: Something about to be made awesome
+Description: Stratégies d'innovation sociale pour le YMCA Québec
 
 ----
 

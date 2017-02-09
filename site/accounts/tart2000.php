@@ -7,7 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - project-c
-  - project-b
-  - project-a
+  - y-communaute
+  - changements
+  - exemples
+  - thanks
   - home
