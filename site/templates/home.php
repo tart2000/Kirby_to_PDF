@@ -26,13 +26,25 @@
 	</div>
 </div>
 
-<div class="page centered">
-	<div class="content">
-		<div class="text">
-			<?php echo page('thanks')->text()->kirbytext() ?>
+<?php if (page('thanks') != '') : ?>
+	<div class="page centered">
+		<div class="content">
+			<div class="text">
+				<?php echo page('thanks')->text()->kirbytext() ?>
+			</div>
 		</div>
 	</div>
-</div>
+<?php endif ?>
+
+<?php if (page('preface') != '') : ?>
+	<div class="page centered">
+		<div class="content">
+			<div class="text">
+				<?php echo page('preface')->text()->kirbytext() ?>
+			</div>
+		</div>
+	</div>
+<?php endif ?>
 
 <div id="toc" class="page">
 	<ul class="toc">

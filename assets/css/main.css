@@ -59,7 +59,7 @@ a:hover {
 html, body {
   margin: 0;
   padding: 0;
-  font-family: "Nexa", sans-serif;
+  font-family: "Helvetica", sans-serif;
   color: #222;
 }
 
@@ -95,6 +95,10 @@ h1 a, h2 a, h3 a, h4 a {
   color: inherit;
   border: 0 !important;
 }
+img {
+  prince-image-magic: jpeg-quality(50%);
+}
+
 
 /* Print Settings 
 -------------------------------------------------- */
@@ -110,7 +114,6 @@ h1 a, h2 a, h3 a, h4 a {
   max-width: 8.5in;
   padding-right: 60pt;
   padding-left: 60pt; 
-  font-family: "Nexa";
 }
 .page, .content {
   margin-left: auto;
@@ -239,6 +242,9 @@ li {
   float: footnote;
   font-size: 8pt;
   prince-footnote-policy: keep-with-block;
+  color: black;
+  line-height: 8pt;
+  font-weight: 400;
 }
 .fn {
   counter-increment: footnote;
@@ -377,9 +383,6 @@ img {
   max-width: 100px;
   margin-left: auto;
   margin-right: auto;
-}
-.centered {
-  margin-top: 300px;
 }
 .proj p, .proj li {
   font-size: 0.9em;
