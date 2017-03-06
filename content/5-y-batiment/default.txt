@@ -6,67 +6,81 @@ Text:
 
 ##Le mix de partenaires 
 ###Le 3ème modèle d’affaire 
-C’est un des points clés de la recherche qui a été effectuée. Et c’est peut-être celui qui va demander le plus d’apprentissage. Le YMCA n’a pas deux modèles d’affaire - comme suspecté au départ : SAPA et programmes communautaires - mais bien trois. Et c’est la négligence de ce troisième modèle d’affaire qui a contribué à la situation actuelle. Une partie importante du travail du YMCA est donc la gestion de bâtiments et il ne peut avoir d’existence pérenne sans le prendre au sérieux. 
+C’est un des points clés de la recherche qui a été effectuée. Et c’est peut-être celui qui va demander le plus d’apprentissage. Le YMCA n’a pas deux modèles d’affaire - comme suspecté au départ : SAPA et programmes communautaires - mais bien trois. Et c’est la négligence de ce troisième modèle d’affaire qui a contribué à la situation actuelle. Une partie importante du travail du YMCA est donc la gestion de bâtiments et il ne peut avoir d’existence pérenne sans prendre cette mission au sérieux. 
 
 ###Le pied carré comme mesure ultime
 Comme toutes les organisations qui intègrent de la gestion de bâtiments, le YMCA doit se focaliser sur une donnée précise : le prix au pied carré. En particulier, combien un pied carré me coûte t-il ? Et combien me rapporte t-il ? 
-À Hochelaga par exemple, nous avons pu calculer que les programmes sportifs (SAPA) ne rapportent en réalité que 2$/pica, en comparaison avec 25$/pica pour les programmes communautaires. Dans ce cas, les programmes communautaires ‘subventionnent’ donc, dans une certaines mesure, les utilisateurs des installations sportives... 
+À Hochelaga par exemple, nous avons pu calculer que les programmes sportifs (SAPA) ne rapportent en réalité que 2$/pica, en comparaison avec 25$/pica pour les programmes communautaires. Dans ce cas, les programmes communautaires ‘subventionnent’ donc, dans une certaines mesure, les utilisateurs des installations sportives... Comme quoi les projets 'bénéficiaires' ne sont pas toujours ceux que l'on croit. 
 De plus, on peut observer une certaine disparité des modèles d’exploitation : SAPA est valorisé à 8$/pica dans un centre, alors qu’il est valorisé à 33$/pica dans un autre. 
 
 ###Densification des programmes 
-Pour les locataires qui ne sont pas permanents (CPE, café, etc.), le prix au pied carré peut se calculer en prenant en compte le taux d’occupation. Il devient donc nécessaire de densifier autant que possible l’utilisation des espaces. C’est cette densification des programmes qui est la clé de la ‘réussite’ du centre d’Hochelaga. Comme il manque d’espace, tout y est maximisé et une salle peut être utilisée plusieurs fois par jour par différents programmes. 
+Pour les locataires qui ne sont pas permanents (CPE, café, etc.) et qui utilisent les espaces de manière ponctuelle, le prix au pied carré peut se calculer en prenant en compte le taux d’occupation. Une partie du travail de Y Bâtiment est donc d'assurer la densification autant que possible de l’utilisation des espaces. C’est cette densification des programmes qui est la clé de la ‘réussite’ du centre d’Hochelaga. Comme il manque d’espace, tout y est maximisé et une salle peut être utilisée plusieurs fois par jour par différents programmes. Cette approche doit être montrée en exemple dans les autres centres où l'utilisation des salles est beaucoup plus sporadique (une salle peut n'être utilisée que quelques heures par semaine). 
 
 ###Un mix à trouver 
 Pour autant, cette approche ne doit pas s’appliquer de manière égale à l’ensemble des utilisateurs d’un espace et des revenus différents au pied carré peuvent être attendus de différents ‘locataires’. 
 Certains espaces pourraient même être laissés pour usage gratuit, pour autant qu’ils permettent au YMCA de mieux réaliser sa mission. Dans l’exemple de Temps Libre Mile End (voir plus bas), un espace est laissé pour utilisation libre et gratuite. Il est financé par l’espace de coworking adjacent, dans lequel les locataires acceptent de ‘payer un petit peu plus’ car ils sont séduits par la mission du projet et peuvent même y trouver leur compte en l’utilisant pour leurs projets. 
+
+(image: tempslibre.jpg) 
+*Photo : l'espace en accès libre à Temps Libre Mile End - Photo par R. Thibodeau*
+
 Dans le Mile End encore, le regroupement Pieds Carré donne accès à des locaux à bas prix à des jeunes organisations créatives à travers des baux à long terme. À côté, des entreprises établies paient plus cher, mais font le pari que de la valeur va être créée dans cette proximité.  
 Dans la discussion que nous avons eue avec Kevin Hurley de CSIx, il nous a soutenu que leur ‘mix’ était différent à chaque fois et qu’il n’avaient pas trouvé de ‘recette miracle’. Il faut donc le ré-évaluer à chaque nouveau projet car chacun inclut une nouvelle communauté avec son histoire propre. 
-Une partie de l’expertise de Y Bâtiment doit se retrouver dans cette capacité à assembler pour chaque projet (lieu), le mix idéal de partenaires et donc le bon montage financier. C’est cette mixité qui est au coeur de projets réussis. 
+Une partie de l’expertise de Y Bâtiment doit se retrouver dans cette capacité à assembler pour chaque projet (lieu), le mix idéal de partenaires et donc le bon montage financier (l'apport de chacun). C’est cette mixité qui est au coeur de projets réussis. 
 
-Exemple(s) benchmark : 
+####Exemple(s) benchmark 
 
 - **Temps Libre** est une coopérative de solidarité qui comprend, dans son implantation dans le Mile End à Montréal, un espace de coworking ainsi qu’un espace communautaire d’accès gratuit. La modèle de gestion de Temps Libre s’appuie donc sur une partie de l’espace en modèle ‘payant’, afin de permettre en parallèle un espace à accès gratuit. 
 - **Plateau Urbain** est une association française basée en Île de France, qui met en contact des propriétaires de bâtiments avec des utilisateurs potentiels, en vue d’une utilisation temporaire. Les membres ‘bienfaiteurs’ paient une cotisation annuelle de 10 000€ pour avoir accès aux services de l’OBNL : diagnostique, montage financier, appels à projets, etc. Ils ont donc développé une expertise dans l’identification et la mobilisation du ‘mix’ de partenaires à mettre en place en fonction d’un lieu donné. 
 
-À faire : 
+####À faire  
 
-- Faire une évaluation précise du coût et du revenu au pied carré de chaque centre 
-- Comparer les résultats pour identifier des problèmes et faire émerger des tendances 
-- Fixer des objectifs attachés à la rentabilité au pied carré des espaces 
+- Faire une évaluation précise du coût et du revenu au pied carré de chaque centre et de chaque activité qui y est faite. 
+- Comparer les résultats pour identifier des problèmes et des bonnes pratiques, puis faire émerger des tendances. 
+- Définir des objectifs attachés à la rentabilité au pied carré des espaces pour chacun des centres.
 
 ##Export de service 
 
 ###Croissance en partenariat
-ICI Montreuil est un ‘coworking de la fabrication’ installé en banlieue parisienne. Après 5 ans de rodage, le projet héberge maintenant une communauté vibrante d’entrepreneurs créatifs de tous poils et d’autres villes sont intéressées par le modèle. Son fondateur, Nicolas Bard, prévoit donc d’ouvrir 5 nouveaux espaces dans des grandes villes françaises dans les 3 ans à venir. Il est en discussion avec les municipalités, mais aussi et surtout avec les développeurs immobiliers, qui sont intéressés à intégrer un espace collaboratif à leurs projets de développement. 
+Une des possibilités pour se développer est de s'appuyer sur des partenaires plus puissants pour assurer sa diffusion. Mais dans ce cas, il est nécessaire de définir de manière très précise ce que l'on va pouvoir apporter - la valeur ajoutée.  
+ICI Montreuil(fn: Lien - http://www.icimontreuil.com/) est un ‘coworking de la fabrication’ installé en banlieue parisienne. Après 5 ans de rodage, le projet héberge maintenant une communauté vibrante d’entrepreneurs créatifs de tous poils et d’autres villes sont intéressées par le modèle. Son fondateur, Nicolas Bard, prévoit donc d’ouvrir 5 nouveaux espaces dans des grandes villes françaises dans les 3 ans à venir. Il est en discussion avec les municipalités, mais aussi et surtout avec les développeurs immobiliers, qui sont intéressés à intégrer un espace collaboratif à leurs projets de développement. Déjà parce que c'est une demande qui commence à émerger de la part des collectivités, qui ne veulent plus se contenter de projets de développement 'à l'ancienne' avec seulement des habitations et des commerces. Mais aussi parce qu'il est devenu clair pour les développeurs immobiliers que la présence d'un espace créatif va faire monter la valeur globale du projet ainsi que son attractivité. 
 
-Accorderies > problèmes au Québec (gouvernance) 
-En 2011, le Réseau Accorderie du Québec et la Fondation Macif concluent un partenariat pour le développement d’un réseau en France. Là encore, la version française a été calquée sur celle québécoise ce qui a permis un déploiement rapide. En quatre ans, 12 Accorderies ont été créées en France qui rassemblent en tout 2.300 accordeurs. Cependant, à la diffé- rence du Québec, l’essaimage en franchise s’est adossé à des associations déjà existantes ce qui a permis d’éviter certains problèmes de gouvernance qui avaient été rencontrés lors de l’expansion au Québec(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9). 
+(image: ateliericimontreuil.jpg) 
+*Photo : les ateliers de ICI Montreuil - Photo Julien Dominguez*
 
-###Affiliation ou licence
+De la même manière, le réseau des Accorderies(fn: Lien - http://accorderie.ca/quebec/) a connu quelques problèmes de gouvernance lorsqu'il s'est déployé au Québec, en tentant de répliquer un modèle de manière identique. C'est pourquoi, lorsque le réseau s'est déployé en France, il a conclut un partenariat avec la Fondation Macif. Et à la différence de ce qui s'est passé au Québec, ce déploiement s'est fait en s'adossant à des associations déjà existantes. Le résultat : en quatre ans, 12 Accorderies ont été créées en France qui rassemblent en tout 2.300 accordeurs(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9). 
 
-CSIx est un modèle de développement proposé par le Center for Social Innovation à Toronto (CSI). Ils ont ouvert quatre espaces dédiés à l’entrepreneuriat social à Toronto, basés sur un double modèle de gestion immobilière et d’animation de communauté. En voyant leur succès, un développeur new yorkais a fait appel à eux pour ouvrir un espace dans un projet immobilier. Voyant ainsi une opportunité potentielle d’étendre leur impact (et leur modèle d’affaire), ils ont lancé le programme CSIx, qui permet à des collectivités ou des développeurs immobiliers d’ouvrir des espaces ‘affiliés’. 
-Nous avons pu nous entretenir avec Kevin Hurley, directeur du programme CSIx, qui nous a partagé quelques éléments du programme, qui est encore en développement et devrait entrer en fonctionnement ‘officiel’ d’ici à fin 2017. Le modèle s’appuie sur un prix par utilisateur du lieu, qui n’est pas encore fixé (mais est anticipé entre 10$ et 25$ par organisation membre par mois). Ce prix par utilisateur est intéressant parce qu’il parie sur la réussite de l’espace. En effet, le promoteur va chercher à avoir le maximum de locataires et il est ainsi assuré que les efforts de la maison mère vont aller en ce sens. Le ‘package’ qu’ils proposent inclut : 
-L’utilisation du système d’image de marque CSI 
-L’accès à outil en ligne de gestion conçu spécifiquement pour CSI 
-Des guides opérationnels 
-Des formations aux pratiques d’animation de lieu (culture academy) 
-L’accès à la plateforme de financement et d’accélération Catalyst
-La possibilité de monter des programmes coordonnés 
-Le prix pourra varier en fonction des besoins de l’organisation locale. Par exemple, dans le cas où l’affilié utilise déjà un outil de gestion, le prix pourrait être revu à la baisse. 
+###Affiliation
 
-Licence plus adéquat avec la maturité des organisations au Québec (cf. TIESS) 
+CSIx(fn: Lien - https://socialinnovation.org/csix/) est un modèle de développement proposé par le Center for Social Innovation à Toronto (CSI). Ils ont ouvert quatre espaces dédiés à l’entrepreneuriat social à Toronto, basés sur un double modèle de gestion immobilière et d’animation de communauté. En voyant leur succès, un développeur new yorkais a fait appel à eux pour ouvrir un espace dans un projet immobilier. Voyant ainsi une opportunité potentielle d’étendre leur impact (et leur modèle d’affaire), ils ont lancé le programme CSIx, qui permet à des collectivités ou des développeurs immobiliers d’ouvrir des espaces ‘affiliés’ (voir plus bas).
+ 
+Nous avons pu nous entretenir avec Kevin Hurley, directeur du programme CSIx, qui nous a partagé quelques éléments du programme, qui est encore en développement et devrait entrer en fonctionnement ‘officiel’ d’ici à fin 2017. Le modèle s’appuie sur un prix par utilisateur du lieu, qui n’est pas encore fixé (mais est anticipé entre 10$ et 25$ par organisation membre par mois). Ce prix par utilisateur est intéressant parce qu’il parie sur la réussite de l’espace. En effet, le promoteur va chercher à avoir le maximum de locataires et il est ainsi assuré que les efforts de la maison mère vont aller en ce sens. 
+
+Le ‘package’ qu’ils proposent inclut : 
+
+- L’utilisation du système d’image de marque CSI 
+- L’accès à outil en ligne de gestion conçu spécifiquement pour CSI 
+- Des guides opérationnels 
+- Des formations aux pratiques d’animation de lieu (culture academy) 
+- L’accès à la plateforme de financement et d’accélération Catalyst
+- La possibilité de monter des programmes coordonnés 
+
+D'autre part, le prix pourra varier en fonction des besoins de l’organisation locale. Par exemple, dans le cas où l’affilié utilise déjà un outil de gestion, le prix pourrait être revu à la baisse. 
 
 ###Communauté de pratique 
-Un modèle intéressant est aussi celui proposé par Artscape, à Toronto (voir plus bas). Forts d’une dizaine de projets immobiliers aboutis, ils ont maintenant choisi d’étendre leur modèle d’affaire. Mais ils ont choisi de dépasser le modèle de licence. Ils ont identifié leur force : le placemaking, et proposent gratuitement des outils pour aider ceux que ça intéresse sur le site dédié Artscape DIY. Ce site - qui propose toutes sorte d’outils : vidéos explicatives, guides, fiches conseil, exemples, modèles de documents - leur permet de fédérer une communauté de pratique, de légitimer leur place comme leaders du domaine, mais aussi d’attirer des clients potentiels. Car, à travers le Creative Placemaking Lab, ils proposent toutes sortes de services (payants) : webinars, des cours en ligne, mais aussi des événements mobilisateurs, du mentorat et du conseil. Ce modèle est particulièrement pertinent dans le cas du YMCA car il rejoint le pôle ‘activation de communauté’ présenté plus loin. Mais il demande de définir clairement une spécialité, une pratique, d’y donner un nom et de s’en faire le représentant. 
+Un modèle intéressant est aussi celui proposé par Artscape, à Toronto (voir plus bas). Forts d’une dizaine de projets immobiliers aboutis, ils ont maintenant choisi d’étendre leur modèle d’affaire. Mais ils ont choisi de dépasser le modèle de licence. Ils ont identifié leur force : le placemaking, et proposent gratuitement des outils pour aider ceux que ça intéresse sur le site dédié Artscape DIY(fn: Lien - http://artscapediy.org). Ce site - qui propose toutes sorte d’outils : vidéos explicatives, guides, fiches conseil, exemples, modèles de documents - leur permet de fédérer une communauté de pratique, de légitimer leur place comme leaders du domaine, mais aussi d’attirer des clients potentiels. Car, à travers le Creative Placemaking Lab, ils proposent toutes sortes de services (payants) : webinars, des cours en ligne, mais aussi des événements mobilisateurs, du mentorat et du conseil. Ce modèle est particulièrement pertinent dans le cas du YMCA car il rejoint le pôle ‘activation de communauté’ présenté plus loin. Mais il demande de définir clairement une spécialité, une pratique, d’y donner un nom et de s’en faire le représentant. 
+
 Dans un domaine hors immobilier, c’est aussi la transformation que le groupe montréalais Exeko traverse en ce moment. Ils ont formalisé leur pratique - la médiation intellectuelle - et sont en train de concevoir la manière de la ‘packager’ pour en faire un ‘produit’ qu’ils puissent proposer à d’autres organismes ou entreprises. 
 Ce modèle, qui passe donc par la mise en place d’une communauté de pratique, est souvent porté par une demande de la communauté. À force d’être vus comme des experts, les demandes de conseil affluent et l’organisme de départ se voit ‘contraint’ de trouver des manières de partager ses connaissances, tout en laissant construisant un modèle associé. 
 
 Il n’existe donc pas un modèle unique de passage à l’échelle, et il ne nous revient pas de définir celui qui sera choisi par le YMCA, mais les exemples fournis dans le benchmark devraient donner des idées à l’équipe. Dans tous les cas, c’est dans la pratique que va se dessiner la spécialité du Y Bâtiment et c’est celle-ci qui pourra être valorisée lors d’un passage à l’échelle. 
 
-
-Exemple(s) benchmark : 
+####Exemple(s) benchmark 
 
 - **CSIx** est une extension des services du Center for Social Innovation Toronto (CSI). Après avoir monté eux-mêmes plusieurs projets immobiliers réussis, ils proposent d’accompagner des développeurs immobiliers, des OBNLs ou des villes, à mettre en place une antenne locale de CSI, afin d’encourager l’entrepreneuriat local. Ils mettent ainsi leur expertise à disposition, mais aussi la plateforme de gestion qu’ils ont développée, une plateforme de financement, des formations, et des guides pratiques. Enfin, les partenaires rejoignent ainsi un réseau d’acteurs qui leur permet de monter des projets en collaboration. Le prix de l’abonnement pour le projet partenaire est calculé par abonné par mois. 
 - **Artscape** est une OBNL basée à Toronto depuis 1986 spécialisée dans le développement urbain à travers des espaces créatifs qui transforment les communautés. Ils ont monté une dizaine d’espaces créatifs à Toronto. Ils s’appuient sur une triple structuration : Toronto Artscape Inc., Artscape Non-Profit Homes Inc. et Artscape Foundation. Une organisation ‘soeur’ a aussi émergé en Colombie Britannique. Les 11 espaces Artscape, qui comptent 42 lieux de rencontre ou de performance, fédèrent près de 150 organisations, 400 bénévoles et plus de 2600 personnes. À travers des baux à long terme avec les acteurs publics (50 ans), ils sont capables d’offrir des loyers à des prix inférieurs de 54% à ceux du marché. 
 
-À faire :
+####À faire
+
+- Identifier quelles spécificités du Y Bâtiment pourraient être développées. 
+- Identifier lequel des modèles de croissance s'applique le mieux à Y Bâtiment. 
+- Essayer d'identifier une 'pratique' spécifique au YMCA qui pourrait être valorisée et développée comme un service dédié.

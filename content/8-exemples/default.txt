@@ -8,29 +8,44 @@ Nous proposons ici quelques exemples de projets qui pourraient être mis en plac
 
 ##Hôtel Dieu
 ###Contexte 
+Une partie de l'Hôtel Dieu a été racheté par la Ville de Montréal. D'ici quelques mois, on peut s'attendre à ce que la Ville lance un appel à projets pour avoir des idées de la manière dont il pourrait être utilisé et commencer à fédérer des organisations autour d'un projet de transformation.  
 
 ###Concept
-Le pôle Y Bâtiment pourrait intervenir sur de la gestion de bâtiments qui n’appartiennent pas au YMCA, en incluant des partenaires extérieurs. 
+Nous imaginons ici que le pôle Y Bâtiment pourrait intervenir sur de la gestion de bâtiments qui n’appartiennent pas au YMCA, en incluant des partenaires extérieurs. Il s’occuperait de la gestion du bâtiment et pourrait inclure de l’espace pour que Y Communauté puisse y mener des projets d'engagement citoyen, et pourquoi pas, à Y Solidaire pour inclure des activités commerciales pas forcément sportives (restauration, point de vente, etc.). D’autres partenaires extérieurs pourraient amener des expertises complémentaires (organisation d’événements, éducation technologique, coworking, incubation de projets, etc.). Par sa présence historique et sa notoriété, le YMCA pourrait naturellement être l’interlocuteur privilégié auprès des organisations décideuses (ville, province, etc.) et agir comme point de rassemblement pour des organismes de plus petite taille. 
 
-Par exemple, la Ville de Montréal a racheté une partie des bâtiments qui composent l’Hôtel Dieu et s’apprête à lancer un appel à projet pour imaginer des nouvelles utilisations. Dans ce cas, Y Bâtiment pourrait monter un projet avec des partenaires. Il s’occuperait de la gestion du bâtiment et pourrait inclure de l’espace pour que Y Communauté puisse y mener des projets à portée communautaire, et pourquoi pas, à Y Solidaire pour inclure des activités commerciales pas forcément sportives (restauration, point de vente, etc.). D’autres partenaires extérieurs pourraient amener des expertises complémentaires (organisation d’événements, éducation technologique, coworking, etc.). Par sa présence historique et sa notoriété, le YMCA pourrait naturellement être l’interlocuteur privilégié auprès des organisations décideuses (ville, province, etc.) et agir comme point de rassemblement pour des organismes de plus petite taille. 
+(image: grands_voisins.jpg)
+*Photo : Les Grands Voisins, Paris*
 
-C’est ce genre de partenariat qui a récemment permis au Groupe SOS de gagner l’appel à projet pour la gestion du lieu emblématique de la French Tech à Lyon, en France. Le Groupe SOS, grâce à Alterna, amène son expertise en gestion de bâtiment et grâce à son nouveau pôle ‘culture’, l’aspect ingénierie culturelle. Les autres partenaires amènent chacun une expertise qui lui est propre. 
-http://www.usine-digitale.fr/article/un-trio-pour-exploiter-le-futur-batiment-totem-de-la-french-tech-lyonnaise.N487359 
-
-On pourra aussi s’inspirer des projets Les Grands Voisins, ou du futur Wiki Village Factory, à Paris. (https://medium.com/@REIHabitat/le-qg-de-la-ville-r%C3%A9siliente-sinstalle-%C3%A0-paris-5bf05a0c91a9#.sedg5c7io) 
+###Inspirations 
+C’est ce genre de partenariat qui a récemment permis au Groupe SOS de gagner l’appel à projet pour la gestion du lieu emblématique de la French Tech à Lyon, en France. Le Groupe SOS, grâce à Alterna, amène son expertise en gestion de bâtiment et grâce à son nouveau pôle ‘culture’, l’aspect ingénierie culturelle. Les autres partenaires amènent chacun une expertise qui lui est propre(fn: Article - Un trio pour exploiter le futur bâtiment totem de la French Tech lyonnaise - http://www.usine-digitale.fr/article/un-trio-pour-exploiter-le-futur-batiment-totem-de-la-french-tech-lyonnaise.N487359). On pourra aussi s’inspirer des projets Les Grands Voisins(fn: Lien - http://lesgrandsvoisins.org), ou du futur Wiki Village Factory, à Paris (fn: Article - Le QG de la ville résiliente s'installe à Paris - https://medium.com/@REIHabitat/le-qg-de-la-ville-r%C3%A9siliente-sinstalle-%C3%A0-paris-5bf05a0c91a9#.sedg5c7io).  
 
 ##Sécurité alimentaire et intégration (St Laurent) 
 ###Contexte 
+Le centre YMCA de St Laurent est déjà en partie équipé pour servir de point central de transformation alimentaire, grâce à ses cuisines. De plus, le quartier connait des besoins croissants en terme de sécurité alimentaire (désertification alimentaire). Enfin, de nombreuses entreprises se trouvent autour du centre et n'ont pas forcément accès facilement à de la nourriture. 
+Le centre pourrait donc se spécialiser dans un modèle d'intégration sociale autour de la notion de sécurité alimentaire. 
+Si cette piste est poursuivie, il faut imaginer comment des futurs travaux pourraient supporter cette mission (nouvelles cuisines, quais de chargement, point de restauration, production alimentaire, etc.). 
 
 ###Concept 
-À St Laurent : pas que les communautés fragilisées
-Aussi, technoparc pas très loin qui peut avoir besoin d’un service de ‘catering’ de qualité. 
-Voir Brightbox > écosystème 
-Incubation genre HBK  
-Intégration (plats internationaux) 
-Centre de distribution fermes LUFA 
+Nous imaginons ici que le centre de YMCA St Laurent développe un modèle d'intégration sociale autour de la nutrition, s'appuyant sur une combinaison de propositions commerciales et communautaires portées par Y Solidaire et Y Communauté respectivement. 
 
-Harlem Kids Zone (?) 
+Au coeur de la proposition, l'utilisation des cuisines pour produire des repas à partir de produits frais. Le travail en cuisine pourrait (par exemple) être effectué par des nouveaux arrivants cherchant à se former par la pratique aux métiers de la restauration. 
+
+De plus, le centre peut s'appuyer sur la diversité des habitants dans le quartier St Laurent pour intégrer à sa proposition des plats typiques d'autres pays. Il pourrait même jouer un rôle dans la transmission et la conservation de recettes typiques, la nourriture jouant un rôle central dans la culture. 
+
+Les repas ainsi préparés pourraient être livrés dans les alentours : 
+
+- à des individus fragilisés (marginalisation, problèmes de santé, etc.) 
+- aux employés des entreprises du quartier (à travers un système d'abonnement) 
+
+Afin d'offrir un service '360°' autour de la sécurité alimentaire, le YMCA St Laurent pourrait aussi servir de centre de distribution de paniers de fruits et légumes, soit à travers les fermes LUFA(fn: Fermes sur les toits LUFA - https://lufa.com/), soit à travers des partenariats directs avec des producteurs aux alentours de Montréal. 
+
+(image: santropol.jpg)
+*Photo : Le jardin sur le toit du Santropol Roulant*
+
+###Inspirations
+L'incubateur Hot Bread Kitchen(fn: Lien - https://hotbreadkitchen.org/), à New York, illustre une partie de ce qui pourrait être fait. Il est bien plus qu'une boulangerie, puisqu'il accueille des porteurs de projets qui cherchent à monter leur propre commerce et les accompagne dans le développement de leur projet. En complément, on a aussi parlé plus haut dans le rapport de FoodCycle(fn: Lien - http://foodcycle.org.uk/), qui combine à la fois récupération de fruits et légumes invendus, formation professionnelle et service alimentaire communautaire. 
+
+On peut aussi imaginer qu'une partie de l'espace extérieur est dédiée à la production alimentaire, à travers des méthodes d'agriculture urbaine. Cet espace pourrait servir à faire de l'éducation auprès des jeunes publics, à la manière de ce que fait le Santropol Roulant ou la Recyclerie à Paris(fn: La Recyclerie - http://www.larecyclerie.com/). 
 
 ##Sport sans jugement (Hochelaga) 
 ###Contexte 
@@ -40,35 +55,50 @@ Les gens viennent de plus loin pour profiter de ça
 Ou caregivers ? 
 Ou héberger des programmes montés par d’autres ? Transformer les gens en profs de sport ? 
 
+###Inspirations 
+
 ##Développement des jeunes (Pointe St Charles) 
 ###Contexte 
-Qu’est-ce qu’il y a comme boites dans le coin qui pourraient être intéressées ? 
-Toit terrasse 
-Accéder aux 15-25 > que le Y n’arrive pas vraiment à atteindre 
+Le centre YMCA de Pointe St Charles a des activités pour les jeunes et l'espace qui leur est dédié est le plus accueillant de tout le centre. Nous proposons donc de développer les programmes du centre autour d'activités centrées sur un objectif : le développement du jeune. 
+Encore une fois, si c'est la direction qui est choisie par le YMCA et si des travaux doivent être effectués, ils doivent permettre au YMCA Pointe St Charles de mieux atteindre cet objectif. Par exemple en créant des espaces accueillants pour les jeunes et dédiés à leur pratique (forum, studios d'enregistrement, toit terrasse, etc.).
+De plus, les programmes expérimentés dans ce centre qui s'avèrent réussis pourront être déployés à travers le réseau pour accéder aux 15-25 ans, un public que le YMCA peine à atteindre. 
 
 ###Concept 
-Réalisation par le ‘faire’ (confiance en soi, etc.) Faire pour devenir 
-Volet payant ? 
-Jeunes qui vendent du service web / graphisme / vidéo aux autres centres 
-> Connaissent les RS et Youtube 
-Palient aux besoins de communication des autres centres 
-Besoin plateau technique + matériel 
-Créativité + technologie 
-Web radio communautaire / web TV  
-Web radio diffusée dans les autres centres etc. Podcasts 
-Documenter des projets etc. > impliquer ONF + Radio Can 
-Inspiration d’autres projets (Square à MTL, The Mix aux US, etc.) 
-Inspiration du connected learning (apprentissage connecté) > cf. recherche BAnQ 
-Niveau activation ?? 
+Nous suggérons d'axer la proposition sur deux points : 
 
-Genre Youtube Space Toronto monté à George Brown College, une école publique de cinéma et de design, depuis 2016. Un de 9 centres (ou spaces) dans le monde. 
-Liam Collins, head of youtube Spaces Americas  
+- la 'réalisation par le faire' 
+- l'intégration des nouvelles pratiques liées aux technologies 
 
-Offre corpo : accès au studios pour vidéos etc. 
-Exemple Loréal a monté un espace Youtube pour ses employés 
+Nous sommes convaincus que les jeunes peuvent développer leur compétences et leur confiance en soi à travers des projets pratiques dont ils sont eux-mêmes responsables. C'est cette philosophie qui porte le développement des fablabs et autres makerspaces dans les écoles, les bibliothèques et les centres communautaires. 
 
-En terme de rénovations possible, cela implique de faire de la place à des studios (vidéo, son, enregistrement, montage, etc.) équipés de matériel adéquat (ordinateurs et logiciels, micros, etc.). 
+D'autre part, les jeunes qui ont aujourd'hui 15 ans sont ce qu'on appelle des 'digital natives'. Ils n'ont jamais connu un monde sans Internet et sans téléphones intelligents. Il faut donc être capable de leur proposer des activités alignées avec leurs propres pratiques (jeu en ligne, réseaux sociaux, etc.). 
 
-Pourrait aller chercher des partenariats, à l’image de http://www.chevronstemzone.com/ 
+À partir de ce constat, nous pensons que le YMCA Pointe St Charles pourrait devenir un centre dédié aux nouvelles formes de communication. 
+
+Des jeunes pourraient se former et monter leurs propres projets de : 
+
+- tournage et montage vidéo 
+- diffusion temps réel (*live stream*) 
+- webradio et podcasts 
+
+Certains services pourraient être tournés vers la communauté locale (web radio communautaire, mise en lumière de l'histoire locale, etc.), vers les jeunes eux-mêmes (streaming de jeu vidéo, chaines Youtube personnelles, etc.) mais d'autres pourraient être tournés vers les organisations. Le centre Pointe St Charles pourrait dans ce cas agir comme inter-médiateur et 'offrir les services' de sa communauté de jeunes à des entreprises ou à d'autres centres du réseau YMCA. En effet, qui mieux que les jeunes pourraient aider des organisations à communiquer avec les jeunes ? 
+
+De nombreux partenaires locaux seraient, nous pensons, près à rejoindre le YMCA dans cette aventure. En particulier, la bibliothèque Saint Sulpice et le Square - portés par la BAnQ - mais aussi Radio Canada et l'ONF. 
+
+On peut aussi imaginer que l'accès aux studios soit offert comme un service payant à certaines entreprises partenaires. En 2015, par exemple, Loréal a monté un studio de création de contenu à Montréal(fn: Article Infopresse - http://www.infopresse.com/article/2015/11/23/l-oreal-canada-devoile-sa-fabrique-de-contenu) pour permettre à ses employés de présenter des produits dans de bonnes conditions. Avec le développement des réseaux sociaux, il est clair que l'accès à ces équipements (et aux compétences associées) va intéresser de plus en plus d'organisations. 
+
+Enfin, cet espace dédié aux nouvelles formes de communication pourrait être supporté par un partenaire privé, à la manière de la Chevron STEM zone(fn: Lien - http://www.chevronstemzone.com/). Montréal ne manque pas d'entreprises de communication (Bell, Vidéotron, etc.).
+
+(image: hive.jpg)
+*Photo : The Hive Chicago*
+
+###Inspirations 
+Il y a beaucoup d'inspirations à aller chercher du côté du *Connected Learning* aux Etats-Unis, un mouvement porté à la fois par les écoles et les bibliothèques. La Ville de Chicago offre notamment de très beaux exemples à travers le projet Hive(fn: Lien - http://hivechicago.org/) - supporté par la Fondation Mozzilla - qui réunit plus de 80 organisations locales qui visent à aider au développement des jeunes à travers l'apprentissage connecté. 
+
+> Our Mission – To create opportunities for teens that advance the promise of the Internet for learning(fn: Traduction libre - Notre mission - Créer des opportunités pour les jeunes qui s'appuient sur le développement de l'Internet de l'apprentissage).
+
+> Opportunity - The promise of the Internet for education is that learning is connected–it’s interest-driven, peer-to-peer, and relevant(fn: Traduction libre - L'opportunité - La promesse d'Internet pour l'éducation est que l'apprentissage soit connecté - il est axé sur les intérêts des jeunes, de pair à pair, et pertinent).
+
+Ces dernières années, Google a aussi ouvert des 'Youtube Spaces'(fn: Lien - https://www.youtube.com/yt/space/) dans 9 grandes villes du monde (Los Angeles, Londres, Paris, etc.). Le premier au Canada a ouvert à Toronto en 2016, en partenariat avec le George Brown College, une école publique de cinéma et de design. Ces espaces offrent aux 'youtubeurs' toute l'infrastructure et le support pour enregistrer leurs vidéos dans les meilleures conditions possibles. 
 
 ##Formatech (?)

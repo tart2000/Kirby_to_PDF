@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - y-communaute
+  - y-solidaire
   - changements
+  - en-pratique-liberer-le-potentiel-de-chaque-modele-daffaire
   - exemples
-  - thanks
-  - home
+  - y-batiment

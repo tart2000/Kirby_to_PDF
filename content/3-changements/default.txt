@@ -71,7 +71,9 @@ Dans tous les cas, ce travail est un fondement indispensable sur lequel construi
 
 - Fusion Jeunesse 
 - Harlem Children's Zone (exemple sur leur site) 
+
 (image: hcz.png)
+*Image : capture d'écran du site Harlem Children's Zone*
 
 ####À faire 
 
@@ -193,10 +195,11 @@ On pourrait croire que ce principe d’autonomisation va à l’encontre de la p
 
 ####À Faire 
 
+- Se doter d’une vision et d’une stratégie numériques qui soient communiquées, comprises et partagées. 
 - Cadrer sous quelles conditions une équipe indépendante (marketing, centre YMCA, ou autre), peut mettre en place un projet technologique par elle-même, en faisant appel à ses propres prestataires. 
 - Former les gens au nouvel outil (DFM), mais surtout, faire comprendre le champ des possibles, afin que les équipes opérationnelles puissent elles mêmes devenir force de proposition par rapport à leurs besoins opérationnels.  
 - Identifier les besoins spécifiques qui mériteraient le développement d’un outil spécifique (par exemple, à travers un partenariat). 
-- Embaucher un data-scientist ou un Chief Data Officer (ou faire monter un employé en compétences)
+- Embaucher un *data-scientist* ou un *Chief Data Officer* (ou faire monter un employé en compétences)
 - Faire un audit des données disponibles et de celles qui pourraient le devenir. 
 - Définir des bonnes pratiques en gestion de la donnée et les mettre en pratique, par exemple à travers une charte(fn: La charte de gestion de données du groupe la Poste - http://legroupe.laposte.fr/espace-presse/liste-des-communiques/la-poste-lance-sa-charte-data).
 - Générer un ‘dashboard’ de suivi pour chaque pôle.

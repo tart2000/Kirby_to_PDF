@@ -9,17 +9,15 @@ Le premier niveau de chacun des pôles, que nous avons appelé le lab, consiste 
 
 ###Passer à l’expérimentation 
 
-commence avec l’identification d’une opportunité. C’est d’abord la prise de conscience par l’entrepreneur d’un besoin social non satisfait puis la maturation de cette intuition. L’opportunité est mise à l’épreuve par la conduite de premiers pilotes qui permettent de tester l’idée. C’est l’arrivée des premiers bénéficiaires et/ou des premiers clients. Le projet peut évoluer de manière importante par rapport à l’idée d’origine. Le cas échéant, cette étape peut mener à l’abandon du projet, notamment si le besoin social a été mal évalué ou si l’opportunité a été surestimée(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9).
-
-
-###Tester des choses 
-Nécessite de se fixer des objectifs clairs et d’évaluer les résultats 
+Tout projet commence avec l’identification d’une opportunité. Un entrepreneur interne (un *project owner*) prend conscience d’un besoin social non satisfait puis mature cette intuition. Il faut ensuite pouvoir faciliter l'expérimentation à travers une méthodologie *lean*(fn: Voir Lean Startup - une manière de tester des idées rapidement et à peu de frais). Ces premiers tests doivent permettre de valider si la proposition de valeur séduit des utilisateurs et, si besoin, faire des ajustements le plus rapidement possible en s'appuyant sur les retours (*feedback*) de ces premiers bénéficiaires et/ou clients. Le projet peut alors évoluer de manière importante par rapport à l’idée d’origine. Mais pour être efficace, cette expérimentation doit se faire dans un cadre précis. Elle doit fixer des objectifs clairs et viser des résultats mesurables. 
 
 De plus, le YMCA Québec a la chance d’avoir plusieurs centres, dans des quartiers différents, avec des publics diversifiés. Il serait facile de mettre en place des projets expérimentaux dans un centre, puis, en fonction des résultats, le diffuser ou non au reste du réseau. 
 
-Cela demande de monter une équipe agile, qui puisse monter des projets rapidement. 
+Ce type de gestion de projet demande de monter une équipe agile, qui puisse monter des projets rapidement avec à la fois une certaine liberté de moyens, des capacités de production et un pouvoir de décision. 
 
 ###Accepter l’échec 
+Potentiellement, cette étape d'expérimentation peut mener à l’abandon du projet, notamment si le besoin social a été mal évalué ou si l’opportunité a été surestimée. 
+
 L'acceptation de l'échec comme facteur de succès à long terme est apparue régulièrement dans les modes de gestion des projets analysés. D'ailleurs l'échec est le sujet principal de discussion du mouvement Failcons(fn: Failcons - http://thefailcon.com/) et l'univers des entreprises en démarrage (start-ups) le valorise comme un point positif à intégrer dans le développement de son entreprise. Depuis quelques années, l’échec est à la mode. Même si cela peut paraître contre-productif, ça a une vertu : la mise en mouvement. 
 
 Ogden Ridjanovic nous rappelle que l’échec est une question de perspective : “L’échec au final est une décision qui ressemble au verre à moitié plein ou à moitié vide : suis-je en train de vivre une expérience pédagogique constructive me préparant pour la suite, ou suis-je en train de me limiter et de me décourager en tenant à tout prix à remplir dès maintenant des objectifs peut-être trop précisément définis ?(fn: L’échec, une simple question de perspective - http://fail.camp/blog/lechec-une-simple-question-de-perspective/)”. 
@@ -27,141 +25,116 @@ Ogden Ridjanovic nous rappelle que l’échec est une question de perspective : 
 Finalement, “l’échec, ce n’est pas le contraire de la réussite. L’échec, c’est le contraire de l’effort” nous pointe Gaëtan Namouric(fn: Le contraire de la réussite - http://fail.camp/blog/contraire-de-la-reussite/). 
 
 ###Innovation sociale 
-Nous n’allons pas ici faire une définition ou un historique détaillé de l’entrepreneuriat social. 
-Les entreprises sociales telles que définies par Muhammad Yunus, sont celles qui donnent priorité à l’impact social et interdisent l’appropriation de la valeur économique éventuellement générée. Cette différence ne signifie pas que les entreprises sociales rejettent les caractéristiques et les outils des entreprises à but lucratif, bien au contraire. Elles peuvent lever des fonds et faire des profits. Elles peuvent choisir des statuts commerciaux et adopter une gouvernance capitalistique. La seule condition est qu’elles maintiennent la primauté de leur mission sociale. 
-Elles peuvent s’appuyer sur une diversité de modèles économiques et même combiner plusieurs modèles (entreprise privée et OBNL). 
-
-Peut passer par des formats classiques d’entreprise privée 
-Mettre en avant l’impact social > Maximiser la valeur créée pour la société 
-
-
-
-Exemple de Soiries du Mékong dans ‘changement d’échelle’ > SAS 
-Actionnaire historique : ONG enfants du Mékong + entrepreneurs fondateurs “garantissent le maintien de la primauté de la finalité sociale tout en accompagnant des ambitions importantes en termes de développement commercial”.  
+Nous n’allons pas ici faire un historique détaillé de l’entrepreneuriat social mais les entreprises sociales telles que définies par Muhammad Yunus, sont celles qui donnent priorité à l’impact social et interdisent l’appropriation de la valeur économique éventuellement générée. Cette différence ne signifie pas que les entreprises sociales rejettent les caractéristiques et les outils des entreprises à but lucratif, bien au contraire. Elles peuvent lever des fonds et faire des profits. Elles peuvent choisir des statuts commerciaux et adopter une gouvernance capitalistique. La seule condition est qu’elles maintiennent la primauté de leur mission sociale. Qu'elles cherchent à maximiser la valeur créée pour la société au sens large.  
+Elles peuvent s’appuyer sur une diversité de modèles économiques et même combiner plusieurs modèles (entreprise privée et OBNL). Ca a été le cas pour l'OBNL les Soieries du Mékong(fn: Lien - http://www.soieriesdumekong.com/laboutique/fr). Lors de son changement d'échelle, elle a constitué une Société par Actions Simplifiées (SAS) dont elle les actionnaires principaux sont l'OBNL ainsi que les entrepreneurs fondateurs qui se sont engagés à "garantir le maintien de la primauté de la finalité sociale tout en accompagnant des ambitions importantes en termes de développement commercial”.  
 
 J. Gregory Dees a publié en 1998 un article fondateur qui liste les cinq caractéristiques des
 « entrepreneurs sociaux » :
-Ils sont des agents de changement dans la société civile.
-Ils transforment les problèmes et les contraintes en opportunités.
-Ils s’engagent dans un processus continu d’innovation, d’adaptation et d’apprentissage.
-Leur ambition ne se limite pas aux moyens actuellement disponibles et ils cherchent à développer par eux-mêmes leurs ressources.
-Ils se demandent sans cesse si leur action est efficace et si elle génère un réel impact social pour leurs bénéficiaires.
 
-
-
+- Ils sont des agents de changement dans la société civile.
+- Ils transforment les problèmes et les contraintes en opportunités.
+- Ils s’engagent dans un processus continu d’innovation, d’adaptation et d’apprentissage.
+- Leur ambition ne se limite pas aux moyens actuellement disponibles et ils cherchent à développer par eux-mêmes leurs ressources.
+- Ils se demandent sans cesse si leur action est efficace et si elle génère un réel impact social pour leurs bénéficiaires.
 
 ###Mesurer son impact 
-La mesure d’impact social est un champ encore en développement et est loin d’être une science exacte. De nombreuses méthodes existent et ça n’est pas l’objet de ce rapport 
-SROI (Social Return On Investment), , GIIRS (Global Impact Investing Rating System), 
-ou des efforts de standardisation GRI (Global Reporting Initiative) ou IRIS (Impact Reporting & Investment Standards) 
+L’impact social est l’ensemble des changements positifs ou négatifs, attendus ou inattendus, et durables engendrés par les activités mises en place et attribuables à ces activités. Ces impacts peuvent être de nature environnementale, économique ou sociale. Toute organisation, à travers son activité, génère un impact. Mais les entreprises d'économie sociale tentent de minimiser leur impact négatif et de maximiser leur impact positif. Mais pour cela, il faut être en mesure d'évaluer en permanence les efforts fournis (personnel, fonds, équipement, etc.) et de s’assurer que ces derniers fournissent un maximum d’impact et un maximum de valeur pour la communauté. 
 
+La mesure d’impact social est un champ encore en développement et est loin d’être une science exacte. De nombreuses méthodes existent et ça n’est pas l’objet de ce rapport d'en faire une étude comparative. On peut trouver aussi bien le SROI (Social Return On Investment), le GIIRS (Global Impact Investing Rating System) ou encore des efforts de standardisation comme le GRI (Global Reporting Initiative) ou IRIS (Impact Reporting & Investment Standards).  
 
-L’impact social est l’ensemble des changements positifs ou négatifs, attendus ou inattendus, et durables engendrés par les activités mises en place et attribuables à ces activités. Ces impacts peuvent être de nature environnementale, économique ou sociale.
+Cette mesure doit bien sûr s'appuyer sur des indicateurs, qui sont à mettre en lien avec une hypothèse, ou des objectifs de départ. Toute processus d'évaluation commence par la définition d'une finalité (pourquoi ? pour qui ?) et d'une question de base (la ou les questions auxquelles on cherche des réponses). Ces indicateurs doivent être pertinents, exhaustifs et réalistes. Il n'existe malheureusement pas d'indicateur unique et synthétique. Il faut donc en général développer une approche multi-critères pour avoir exhaustivité et précision. 
 
-À mettre en lien avec une hypothèse, ou des objectifs de départ. 
- Il est donc nécessaire d’identifier la finalité de l’évaluation (pourquoi ? pour qui ?) et de préciser la question de base de l'évaluation (la ou les questions auxquelles on cherche des réponses)
+Nous avons pu nous entretenir avec Vincent Stanley, Directeur de la philosophie à Patagonia(fn: Entretien réalisé le mardi 14 février 2017 - http://patagonia.com). Selon lui, la mesure d'impact est un travail continu qui doit toujours s'adapter au contexte changeant. Il ajoute deux points critiques : 
 
-Définir des indicateurs 
-Un jeu d’indicateurs se doit de répondre aux enjeux de pertinence, d’exhaustivité et de réalisme. L’indicateur synthétique et unique n’existe pas. Il faut donc développer une approche multicritères qui apportera exhaustivité et précision. 
+1. Ne pas mesurer ce à propos de quoi on ne peut rien faire 
+1. Dès lors que la mesure devient un objectif, elle cesse d'être effective
 
+Ce deuxième point s'appuie sur un mécanisme sociologique qui fait que si l'indicateur devient le focus, les gens vont toujours trouver des moyens de le faire bouger dans la direction voulue, au risque de perdre de vue la question de départ, voir de mettre en place des actions qui vont avoir l'inverse de l'impact souhaité.
 
-À Montréal, plusieurs organismes () 
-Il s’agit d’abord de vérifier que le changement d’échelle se traduit bien par une augmentation de l’impact social et non uniquement par une croissance de l’activité
-Prendre des décisions motivées 
-Mesurer performance économique et performance sociale 
-
-'amélioration continue demande d'évaluer avec constance les efforts fournis (personnel, fonds, équipement, etc.) et de s’assurer que ces derniers fournissent un maximum d’impact et un maximum de valeur pour la communauté. Grâce à cette méthode, elle a pu réorienter des budgets ‘mal utilisés’ (par exemple, des abonnements peu consultés) et les rediriger vers l’équipement du fablab
+Cette mesure d'impact, faite avec application, et combinée à une analyse des performances économiques, est ce qui va permettre à l'organisation de prendre des décisions éclairées et motivées par des faits réels. 
 
 ###Passer de l’action sociale au changement social 
-Combiner les objectifs 
-Toutes les grandes fondations à Montréal sont concentrées sur le changement social (et plus seulement sur l’action sociale) Mc Connell / Bombardier 
-Bien sûr, les opérations de première ligne sont nécessaires 
-Les gens paient pour des actions de charité 
+Lors de notre entretien avec Pier Liné, Directeur Général du Santropol Roulant, celui-ci nous a souligné la nécessité de combiner à la fois des objectifs d'action sociale et de changement social. Dans les faits, cela veut dire offrir des services communautaires, mais aussi mettre en place des projets structurels qui vont chercher à traiter les causes du problème. Aujourd'hui, ajoute-t-il, toutes les grandes fondations à Montréal, comme Mc Connell ou Bombardier, soutiennent d'avantage des projets de changement social que d’action sociale. Bien sûr, les opérations de première ligne sont nécessaires, mais celles-ci doivent être combinées à un projet de transformation. Et ces deux actions doivent être liées. Ce qui n'est pas le cas aujourd'hui au YMCA : les clients SAPA peuvent n'avoir aucune idée des actions sociales du YMCA. Il est donc nécessaire d'imaginer des manières d'impliquer toutes les parties prenantes dans un objectif de changement social.  Par exemple, si on leur en donnait la possibilité, certaines personnes accepteraient surement de payer un peu plus cher leur abonnement au club de sport pour supporter les autres actions du YMCA. Certaines personnes n’ont pas le temps de faire du bénévolat mais veulent pouvoir faire une différence à leur manière. Nous présentons dans les exemples du benchmark la manière dont le Santropol Roulant aborde cette possibilité. 
 
-Penser à la manière d’impliquer d’autres gens. Par exemple en payant plus cher leur abonnement au YMCA. Certaines personnes n’ont pas le temps de faire du bénévolat mais veulent pouvoir faire une différence. 
+####Exemples du benchmark
 
-Cette approche est au coeur du fonctionnement du Santropol Roulant. Les repas sont proposés entre 4.5$ et 8$ et c’est au gens de décider combien ils souhaitent payer en fonction de leurs revenus. Il en va de même pour les paniers de légumes proposés. Les acheteurs décident eux-même d’en ajuster le prix. Et le fait de savoir que la différence va aider d’autres projets du Roulant leur permet de faire une différence à leur manière.
-Il en va de même avec leur Gala annuel de levée de fonds. En 2015, ils ont mis en place une nouvelle politique de prix basée sur la contribution volontaire qui leur a permis de lever 66% de fonds en plus par rapport aux années précédentes. Cette approche leur permet d’avoir des sources de financement variées et donc de cultiver leur résilience. 
+- Le **Laboratoire d'Innovation Sociale (SIL)** est une plate-forme multidisciplinaire qui permet au personnel de BRAC de s'informer sur les meilleures pratiques en matière de développement, de générer des idées, d'expérimenter et de partager des connaissances sur des exemples d’innovations passées à l’échelle, tout ça au coeur d’une communauté mondiale dédiée au développement (http://innovation.brac.net/). Depuis 2011, SIL est un centre de connaissances et d'expérimentation, et aide BRAC à relever les défis de demain en capitalisant sur les opportunités émergentes et en catalysant l'innovation dans toute l'organisation(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9).
+- Le **Santropol Roulant** ne se contente pas de livrer des repas à ses bénéficiaires. Les repas sont proposés entre 4.5$ et 8$ et c’est au gens de décider combien ils souhaitent payer en fonction de leurs revenus. Il en va de même pour les paniers de légumes proposés. Les acheteurs décident eux-même d’en ajuster le prix. Et le fait de savoir que la différence va aider d’autres projets du Roulant leur permet de faire une différence à leur manière. Il en va de même avec leur Gala annuel de levée de fonds. En 2015, ils ont mis en place une nouvelle politique de prix basée sur la contribution volontaire qui leur a permis de lever 66% de fonds en plus par rapport aux années précédentes. Cette approche leur permet d’avoir des sources de financement variées et donc de cultiver leur résilience. 
+
+####À faire 
+
+- S'inspirer d'autres exemples de 'labs' à travers le monde. 
+- Constituer une ou des équipes projet avec des conditions de travail favorisant l'expérimentation. 
+- Evaluer l'impact des projets actuels du YMCA et le croiser avec les ressources qu'ils nécessitent. 
+- Favoriser les projets qui ont le plus d'impact et qui demandent le moins de ressources. 
+
+##Mise à l’échelle 
+###Qu’appelle t’on passage à l’échelle ? 
+Si une entreprise sociale est une organisation qui vise principalement à produire un impact social positif, son changement d’échelle correspond à la stratégie qu’elle met en œuvre pour maximiser cet impact. De la même manière qu’une entreprise à but lucratif envisage la croissance pour maximiser sa création de valeur économique, l’entreprise sociale envisage le changement d’échelle pour développer l’impact social qu’elle a été capable de générer à petite échelle. Il est donc nécessaire de vérifier tout le long du projet que ce changement d’échelle se traduit bien par une augmentation de l’impact social et non uniquement par une croissance de l’activité. 
+
+Un des enjeux majeurs du changement d’échelle est donc de définir le bon alignement entre mission, stratégie et organisation. 
+
+Cette augmentation d'impact peut se faire de trois manières : 
+
+1. Plus d’impact sur chaque bénéficiaire 
+1. Impact sur plus de bénéficiaires par territoire 
+1. De nouveaux bénéficiaires sur de nouveaux territoires 
+
+Et pour réaliser ce changement d'échelle, une entreprise sociale peut s'appuyer sur quatre stratégies de croissance différentes(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9) : 
+
+1. « *Scale Deep*» : Faire mieux ce que l’on fait déjà
+1. « *Scale Out* » : Faire autre chose que ce que l’on fait déjà
+1. « *Scale Up* » : Faire plus de ce que l’on fait déjà
+1. « *Scale Across* » : Faire faire à d’autres ce que l’on fait déjà
+
+À travers les exemples présentés dans ce rapport, nous avons tenté d'illustrer chacune de ces possibilités de croissance pour les trois modèles d'affaire du YMCA. 
 
 ###Comment savoir quand un projet est prêt à passer à l’échelle ? 
 
-L’ICSF (International Center for Social Franchising) propose un questionnaire pour tester la capacité de passage à l’échelle d’une organisation ou d’un projet (replication readiness). Nous reprenons ici la liste des dix questions traduites en français : 
-Existe-t-il une stratégie ambitieuse mais réaliste pour passer à l’échelle et ainsi faire diminuer le problème adressé ? 
-L’impact social a-t-il été mesuré et prouvé à travers l’organisation ? 
-Avez-vous développé et validé un modèle d’affaire ? 
-Les capacités nécessaires au passage à l’échelle sont-elles définies et développées afin d’assurer à la fois la livraison du service et la qualité ?  
-Y a-t-il un chef de projet (project owner) clair appuyé par une équipe avec des capacités de production ?
-Existe-t-il un besoin social ou un marché suffisant à adresser par le passage à l’échelle ? 
-Est-il possible de réussir dans un contexte différent ? 
-Le passage à l’échelle est-il supporté par l’organisation dans son intégralité (employés, CA et partenaires externes) ? 
-Votre marque est-elle comprise et appréciée par votre public ? 
-Existe-t-il une demande de la part d’organisations ou d’individus prêts à prendre en main le projet de passage à l’échelle ? 
+L’ICSF (International Center for Social Franchising) propose un questionnaire pour tester la capacité de passage à l’échelle d’une organisation ou d’un projet (*replication readiness*). Nous reprenons ici la liste des dix questions traduites en français(fn: Liste originale - en anglais - http://toolkit.the-icsf.org/Home) : 
+
+1. Existe-t-il une stratégie ambitieuse mais réaliste pour passer à l’échelle et ainsi faire diminuer le problème adressé ? 
+1. L’impact social a-t-il été mesuré et prouvé à travers l’organisation ? 
+1. Avez-vous développé et validé un modèle d’affaire ? 
+1. Les capacités nécessaires au passage à l’échelle sont-elles définies et développées afin d’assurer à la fois la livraison du service et la qualité ?  
+1. Y a-t-il un chef de projet (*project owner*) clair appuyé par une équipe avec des capacités de production ?
+1. Existe-t-il un besoin social ou un marché suffisant à adresser par le passage à l’échelle ? 
+1. Est-il possible de réussir dans un contexte différent ? 
+1. Le passage à l’échelle est-il supporté par l’organisation dans son intégralité (employés, CA et partenaires externes) ? 
+1. Votre marque est-elle comprise et appréciée par votre public ? 
+1. Existe-t-il une demande de la part d’organisations ou d’individus prêts à prendre en main le projet de passage à l’échelle ? 
 
 On peut donc synthétiser sous les points suivants : 
 
 1. Valider la proposition et le modèle d’affaire associé 
 1. Assurer la capacité de production de l’organisation 
 
-On n’est pas obligé de le faire tout seul 
-Il existe des organisations prêtes à aider le passage à l’échelle. 
-(ex. Foodcycle) http://www.the-icsf.org/2016/05/10/foodcycle/ 
+Enfin, ce passage à l'échelle, qui peut paraître compliqué (et parfois loin du coeur de métier de l'organisation) peut se faire grâce à des partenaires. Certaines organisations sont spécialisées dans l'accompagnement de ce processus. C'est le cas, notamment, de l'ICSF, mentionné plus haut. Ils ont par exemple accompagné FoodCycle(fn: Lien vers le cas - en anglais - http://www.the-icsf.org/2016/05/10/foodcycle/), une organisation de charité en Angleterre, qui sert des repas à des gens dans le besoin à partir de fruits et légumes récupérés. En développant un modèle de franchise sociale, ils ont réussi à multiplier leur impact de manière significative. Ils sont maintenant présents à travers 27 *hubs* à travers le pays. Le projet d'accompagnement a été rendu possible par un financement de NESTA(fn: Lien - http://www.nesta.org.uk/). 
 
+(image: foodcycle.png)
+*Photo : des bénévoles et bénéficiaires de Food Cycle à Peckham. Crédit : Chris King*
 
-Exemples :
-- Le Laboratoire d'Innovation Sociale (SIL) est une plate-forme multidisciplinaire qui permet au personnel de BRAC de s'informer sur les meilleures pratiques en matière de développement, de générer des idées, d'expérimenter et de partager des connaissances sur des exemples d’innovations passées à l’échelle, tout ça au coeur d’une communauté mondiale dédiée au développement (http://innovation.brac.net/). Depuis 2011, SIL est un centre de connaissances et d'expérimentation, et aide BRAC à relever les défis de demain en capitalisant sur les opportunités émergentes et en catalysant l'innovation dans toute l'organisation(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9).
+###Franchise, licence ou autre ?  
+Inspiré de la franchise commerciale, la franchise sociale est un contrat entre un franchiseur (Une OBNL par exemple) et un franchisé (un prestataire de service). En échange d'un montant donné (qui peut être une combinaison de frais fixes et variables), le franchisé a accès aux éléments distinctifs du franchiseur (marque, enseigne, etc.), à des savoir-faire, méthodologies et pratiques uniques et à une forme d'assistance de la part du franchiseur pour l'accompagner dans sa réussite. C'est un modèle qui demande de la part du franchiseur de définir très précisément tous les éléments qu'il peut mettre à disposition de ces franchisés et de tout mettre en place pour leur réussite. Il implique aussi un degré assez élevé de contrôle de la part du franchiseur sur son réseau, afin d'assurer le respect de ses actifs et donc de la valeur de sa franchise. 
 
+La licence, quant à elle, n'implique pas nécessairement de support de la part de l'organisation mère ni le partage de savoir-faire. Elle consiste essentiellement en un partage de l'identité (marque et éléments distinctifs). C'est un format beaucoup plus léger, et en retour, le fournisseur de la licence a beaucoup moins de contrôle sur l'utilisation qui est faite de sa licence. 
 
-##Mise à l’échelle 
-###Qu’appelle t’on passage à l’échelle ? 
+Nous avons eu l'occasion de nous entretenir avec le TIESS (fn: Territoires Innovants en Economie Sociale et Solidaire - Lien - http://www.tiess.ca/), qui mène en ce moment un projet de recherche sur le développement d’un modèle de franchise en économie sociale(fn: Lien - http://www.tiess.ca/developpement-dun-modele-de-franchise-en-economie-sociale/). Les résultats de l'étude n'ont pas encore été publiés, mais notre interlocutrice nous a soutenu que la mécanique de licence semblait maintenant la plus adéquat par rapport à la maturité des organisations au Québec. En effet, le modèle de franchise sociale semble pour l'instant trop lourd à mettre en place pour la plupart des organisations québécoises. 
 
-Si une entreprise sociale est une organisation qui vise principalement à produire un impact social positif, son changement d’échelle correspond à la stratégie qu’elle met en œuvre pour maximiser cet impact. De la même manière qu’une entreprise à but lucratif envisage la croissance pour maximiser sa création de valeur économique, l’entreprise sociale envisage le changement d’échelle pour développer l’impact social qu’elle a été capable de générer à petite échelle.
-
-L’enjeu majeur du changement d’échelle est donc de définir le bon alignement entre mission, stratégie et organisation. 
-
-Trois axes possibles : 
-
-1. Plus d’impact sur chaque bénéficiaire 
-1. Impact sur plus de bénéficiaires par territoire 
-1. De nouveaux bénéficiaires sur de nouveaux territoires 
-
-Peuvent être combinés 
-
-Et quatre stratégies de croissance sont souvent présentées : 
-
-1. « Scale Deep » : Faire mieux ce que l’on fait déjà
-1. « Scale Out » : Faire autre chose que ce que l’on fait déjà
-1. « Scale Up » : Faire plus de ce que l’on fait déjà
-1. « Scale Across » : Faire faire à d’autres ce que l’on fait déjà
-
-Les exemples présentés dans le cadre de ce rapport permettent d’illustrer 
-
-
-Montrer à travers les trois modèles d’affaire et les exemples associés, différentes manières de procéder, aussi bien en terme de gouvernance que de pratique. 
-
-Consolider des choses qui marchent et les diffuser 
-Dans l’organisation 
-Et à l’extérieur dès que possible 
+Les propositions de mise à l'échelle de chacun des différents pôles dans la suite du rapport illustrent aussi d'autres manières de passer à l'échelle. Dans les faits, il y a autant de manières de le faire qu'il y a d'organisations différentes. Le choix su modèle d'essaimage s'appuie sur plusieurs critères, comme la volonté de contrôle, le besoin d’une appropriation locale, le risque financier, la nature du concept à développer et le secteur d’activité, le pouvoir décisionnel détenu par la structure fondatrice ainsi que la possibilité
+d’amortissement des coûts de développement(fn: Franchises sociales - TIESS - Lien - http://www.tiess.ca/wp-content/uploads/2016/06/Franchises-sociales_TIESS_Juin2016.pdf).
 
 ###Un projet d’équipe 
-Entrepreneurial manager 
-La décision de changer d’échelle doit également s’appuyer sur une volonté et une envie forte des porteurs de projet
-Le changement d’échelle est une vraie rupture qui implique une transformation radicale pour une entreprise sociale. Par définition, il ne peut y avoir de changement d’échelle modeste. C’est pourquoi ce choix doit être soutenu par une motivation interne forte. 
+Le changement d’échelle est une vraie rupture qui implique une transformation radicale pour une entreprise sociale. Par définition, il ne peut y avoir de changement d’échelle modeste. C’est pourquoi ce choix doit être soutenu par une motivation interne forte. La décision doit s’appuyer sur une volonté forte combinée des porteurs de projet et des décideurs. Et enfin, ce passage à l'échelle doit s'appuyer sur une équipe engagée, avec à sa tête un *entrepreneurial manager*, qu'on pourrait aussi appeler un intrapreneur... 
 
+####Exemples du benchmark 
 
-
-
-###Les différentes phases du passage à l’échelle  
-
-Un projet de passage à l’échelle va en général passer par les phases suivantes : 
-
-- Prouver le modèle (étape précédente)
-- Conception 
-- Systématisation 
-- Projet pilote 
-- Passage à l’échelle 
-
-Exemples :
-- Le Bangladesh Rehabilitation Assistance Committee (BRAC) a été créé en 1972 pour apporter assistance et secours aux populations au sortir de la guerre de libération du Bangladesh. Un an après, l’organisation change de nom pour devenir le Bangladesh Rural Advancement Committee. BRAC décide ainsi très rapidement de changer de positionnement pour compléter la logique humanitaire (par exemple, apporter un soutien suite à un conflit armé) par celle d’un développement humain à long terme.
+- Le **Bangladesh Rehabilitation Assistance Committee (BRAC)** a été créé en 1972 pour apporter assistance et secours aux populations au sortir de la guerre de libération du Bangladesh. Un an après, l’organisation change de nom pour devenir le Bangladesh Rural Advancement Committee. BRAC décide ainsi très rapidement de changer de positionnement pour compléter la logique humanitaire (par exemple, apporter un soutien suite à un conflit armé) par celle d’un développement humain à long terme.
 Dès 1974, alors que BRAC mène des opérations d’urgence dans le cadre de famines ou d’inondations, l’ONG initie ses premières activités de micro-finance, crée un département de recherche et d’évaluation et amorce ses premiers projets d’empowerment destinés aux femmes. BRAC ne va pas cesser ensuite de diversifier ses activités pour approfondir son impact sur les populations, dans un contexte où l’action publique reste très insuffisante. Des programmes sont mis en place dans des domaines aussi variés que l’éducation, l’entrepreneuriat social, l’assainissement, la santé ou la nutrition, le plus souvent dans une logique de développement des capacités des populations(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9).
 BRAC a été reconnu en 2013 comme la plus grande et la meilleure ONG du monde par The Global Journal qui édite chaque année un classement des 100 meilleures ONG.
-- Lorsque l’on évoque en France la question du changement d’échelle, le groupe SOS est l’un des exemples les plus aboutis et les plus souvent cités. Créé en 1984, le groupe SOS est désormais une véritable grande entreprise sociale avec 11.000 salariés, plus d’un million de bénéficiaires et 650 millions d’euros de chiffre d’affaires. SOS est en réalité un groupement de 330 structures. Elles ont notamment en commun d’adhérer à « Alliance Gestion », un groupement d’intérêt économique qui prend en charge différentes fonctions de gestion : comptabilité, contrôle de gestion, juridique, ressources humaines, achats, communication, recherche de financements, etc. Cette mutualisation permet d’abord de mener des économies d’échelle importantes. Elle permet aussi de proposer des rémunérations attractives et d’être compétitif sur les expertises et les compétences concernées, ce qui est rarement le cas des entreprises sociales de plus petite taille. Enfin, elle permet aux entrepreneurs sociaux de se concentrer sur le développement opérationnel et de ne pas avoir à se préoccuper des tâches de gestion qui peuvent les en éloigner(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9).
+- Lorsque l’on évoque en France la question du changement d’échelle, le **Groupe SOS** est l’un des exemples les plus aboutis et les plus souvent cités. Créé en 1984, le groupe SOS est désormais une véritable grande entreprise sociale avec 11.000 salariés, plus d’un million de bénéficiaires et 650 millions d’euros de chiffre d’affaires. SOS est en réalité un groupement de 330 structures. Elles ont notamment en commun d’adhérer à « Alliance Gestion », un groupement d’intérêt économique qui prend en charge différentes fonctions de gestion : comptabilité, contrôle de gestion, juridique, ressources humaines, achats, communication, recherche de financements, etc. Cette mutualisation permet d’abord de mener des économies d’échelle importantes. Elle permet aussi de proposer des rémunérations attractives et d’être compétitif sur les expertises et les compétences concernées, ce qui est rarement le cas des entreprises sociales de plus petite taille. Enfin, elle permet aux entrepreneurs sociaux de se concentrer sur le développement opérationnel et de ne pas avoir à se préoccuper des tâches de gestion qui peuvent les en éloigner(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9).
+
+####À faire  
+
+- Consolider les choses qui marchent et les diffuser dans l'organisation et au dehors.
+- Identifier et outiller les 'intrapreneurs'.

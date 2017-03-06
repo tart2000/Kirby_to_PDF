@@ -14,13 +14,13 @@ Bien entendu, les secteurs du sport, de l’alimentation ou de l’éducation n�
 
 Dans le cadre de notre étude, la révolution numérique peut être définie par les points suivants :
 
-- Transversalité totale : Le numérique n’est pas un secteur. Il touche tous les secteurs. 
-- De la rareté à l’abondance : L’enjeu n’est plus l’accès à l’information - elle est partout (ou doit l’être). 
-- Le règne de la donnée : La création et le traitement de données est au coeur de la création de valeur. C’est aussi la base de la personnalisation. 
+- **Transversalité totale** : Le numérique n’est pas un secteur. Il touche tous les secteurs. 
+- **De la rareté à l’abondance** : L’enjeu n’est plus l’accès à l’information - elle est partout (ou doit l’être). 
+- **Le règne de la donnée** : La création et le traitement de données est au coeur de la création de valeur. C’est aussi la base de la personnalisation. 
 
 On a ainsi pu constater un déplacement de la création de création de valeur au plus proche du client. Ceux qui arrivent à maîtriser l’interface avec le client sont ceux qui génèrent le plus de valeur et des acteurs historiques qui n’ont pas intégré ces changements et/ou n’ont pas sû s’adapter se retrouvent aujourd’hui en difficulté majeure. 
 
-De fait, le “brick & mortar” (et plus largement, les actif physiques) devient ainsi une commodité. AirBnB offre plus de lits que la plus grande des chaînes d’hôtels, mais n’en possède aucun. Uber, la plus grande compagnie de taxis au monde, ne détient aucune voiture. 
+De fait, le “brick & mortar” (et plus largement, tout actif physique) devient ainsi une commodité. AirBnB offre plus de lits que la plus grande des chaînes d’hôtels, mais n’en possède aucun. Uber, la plus grande compagnie de taxis au monde, ne détient aucune voiture. 
 
 ###Les nouvelles attentes du consommateur 
 Avec la révolution numérique, les attentes des consommateurs évoluent aussi. 
@@ -36,77 +36,104 @@ Nous nous concentrons ici sur les attentes du client YMCA, mais (on en parlera p
 L’avènement du numérique offre une opportunité unique de repenser l’expérience client offerte par le YMCA. 
 La notion d’expérience client telle qu’elle est décrite dans ce rapport va bien au delà de l’interaction du client (ou du bénéficiaire) sur place dans les centres. Elle prend en compte tous les points de contact que l’usager peut avoir avec le YMCA. Par exemple : voir une affiche dans la rue, consulter le site internet pour chercher des horaires, recevoir un courriel de rappel, etc.  
 
+Le premier axe à travailler de manière prioritaire est la personnalisation de l'expérience grâce à la collecte de données. La structuration de ces données doit permettre de développer une compréhension profonde du client, à partir de laquelle on peut : 
 
-Mobile : pas seulement en dehors ! 
+- Adapter l'offre et/ou la proposition de service 
+- Adapter les campagnes de communication 
+- Proposer des recommandations pertinentes 
 
+Mais en contrepartie, la gestion des données doit se faire de manière sécurisée et transparente, et le client doit pouvoir contrôler ses préférences de manière simple.
 
-Personnalisation (grâce aux technologies et aux données collectées) 
-Expérience 360 (vidéo, musique, merch)
+Certains nouveaux services tendent même vers l'hyper-personnalisation. C'est le cas de Habit(fn: Lien - https://habit.com/), qui utilise des tests sanguins et ADN pour pouvoir recommander un programme de nutrition spécialement adapté au métabolisme et au style de vie du client (appuyé, selon eux, par plusieurs années de recherche). Ils proposent ensuite des recettes et même de la livraison à domicile de plats préparés. 
+
+Enfin, le YMCA doit tendre vers une offre omnicanal 360°. On définit une offre omnicanal comme le fait d'interagir avec le client de multiples manières selon les moments et ses préférences (application mobile, site internet, SMS, courriel, réseaux sociaux, sur place, etc.). Chacune de ces interactions va permettre de constituer un profil du client de plus en plus complet (pour pouvoir, en retour, faire une offre plus personnalisée). Et chacun de ces canaux doit assurer une expérience homogène et cohérente. Le but est d’éviter que les efforts mis en place soient « ruinés » par un canal de contact défaillant et non coordonné. 
+  
+Pour synthétiser, nous avons identifié 8 grands enjeux qu'il faut maîtriser afin d'être en mesure de proposer une expérience 360° à ses clients. Pour se faire, il faut maîtriser les services et points de contact client (*frontline*), structurer les ressources support (*backend*) et renforcer les processus et infrastructures numériques (structure support). 
+
+(image: enjeux-experience-client.jpg)
+*Schéma des nouveaux enjeux de l'expérience client - Production Rhizome*
 
 ###Déplacement de la concurrence 
 La révolution numérique, combinée à cette approche orientée ‘expérience client’, oblige à prendre en compte un déplacement, ou un élargissement de la notion de concurrence. Avant, on pouvait se dire que les concurrents de SAPA étaient les autres salles de gym du quartier. Mais dans le cadre d’une approche ‘expérientielle’, on peut (par exemple) se rendre compte que la raison principale pour laquelle une personne vient au YMCA est pour le lien social. Selon cette approche, les concurrents du YMCA ne sont plus les autres salles de sport, mais plutôt les cafés du quartier, les clubs sociaux, et, pourquoi pas, Facebook… Il ne s’agit donc plus de convaincre de venir au YMCA en cherchant à battre les prix des clubs de sport voisins, mais d’offrir une expérience qui sera plus enrichissante que celle offerte par les réseaux sociaux. 
 
-De la même manière, une personne peut venir à la gym pour perdre du poids. Dans ce cas, les concurrents sont tous les dispositifs qui pourront lui permettre d’atteindre cet objectif : les programmes Weight Watchers, un coach personnel ou une application. 
-On comprend bien comment certaines offres dématérialisées (applications mobiles, plateformes web, réseaux sociaux, chaines TV, etc.) peuvent donc venir concurrencer directement le YMCA. Il appartient donc au YMCA de valoriser ses différences, ce qu’il a de plus à offrir : les lieux physiques, l’interaction humaine, etc. 
-On peut ainsi imaginer comment le YMCA pourrait aider des prescripteurs technologiques à ajouter ces éléments à travers des expériences complémentaires fixées par des partenariats. 
+De la même manière, une personne peut venir à la gym pour perdre du poids. Dans ce cas, les concurrents sont tous les dispositifs qui pourront lui permettre d’atteindre cet objectif : les programmes Weight Watchers, un coach personnel ou une application sur son téléphone intelligent.  
+On comprend bien comment certaines offres dématérialisées (applications mobiles, plateformes web, réseaux sociaux, chaines TV, etc.) peuvent donc venir concurrencer directement le YMCA. Il appartient donc au YMCA de valoriser ses différences, ce qu’il a de plus à offrir : les lieux physiques, l’interaction humaine, etc. On peut même imaginer comment le YMCA pourrait aider des prescripteurs technologiques à ajouter ces éléments à travers des expériences complémentaires à travers des partenariats. 
+
+###Numérisation 
+Nous avons vu jusque là comment la numérisation de l'organisation (en interne) peut aider à une meilleure connaissance du client et donc contribuer à offrir une meilleure expérience. Mais il est aussi nécessaire de voir dans quel mesure certains aspects du service pourraient être numérisés ou comment certains éléments déjà numérisés (ou faciles à numériser) pourraient être valorisés. L'avantage principal de cette numérisation du service est qu'elle permet une économie d'échelle considérable. Une fois couverts les frais d'installation, plus il y a d'utilisateurs, plus la marge augmente. 
+
+(image: peloton.png) 
+*Photo : L'interface de Peloton*
+
+Par exemple, Peloton(fn: Lien - https://www.pelotoncycle.com/) - qui s'est partiellement financé grâce au socio-financement - offre des cours de *spinning* en direct. Pour cela, ils diffusent simplement les cours qui sont donnés dans leur studio de New York (à des participants qui paient leur place). Grâce à ça, un seul professeur peut donner un cours à des milliers d'utilisateurs... 
+
+Par ses différentes activités, le YMCA crée une grande quantité de contenus, qui sont - ou pourraient être - numérisés. Le premier point, qui parait évident, serait la diffusion - en temps réel ou en différé - des cours qui sont donnés dans les centres. Mais il y a surement bien d'autres pistes à explorer...
+
+####Exemples benchmark
+
+- **Social Bite** est une chaîne de restauration rapide à vocation sociale basée en Ecosse. Ils cherchent à aider les gens à sortir de la rue en offrant de la nourriture et du travail. Un quart de leurs employés sont donc des itinérants en réinsertion. Ils combinent ainsi action sociale et changement social. 
+- 
+
+
+####À faire 
+
+- Apprendre à connaître ses clients sur le bout des doigts (à travers les données collectées) et trouver le meilleur moyen / moment pour créer des points de contact. 
+- Eliminer les silos entre les divisions marketing, affaires et technologies.
+- Développer des expériences personnalisées (recommandations, notifications, invitations, etc.).
+- Identifier des partenaires qui pourraient générer un partenariat d’intérêt mutuel. 
+- Faire un inventaire des contenus qui pourraient être valorisés et monter des projets pilotes. 
+
+##Extension de produits
+
+###Extraction de produit 
+Une fois un produit (outil, service, etc.) développé pour leur usage interne, certaines organisations ont réussi à le mettre en marché pour permettre à d'autres de l’utiliser. C'est ce qu'est en train de faire le CSI (voir plus haut) en intégrant les outils numériques de gestion qu'ils ont développé à leur proposition d'affiliation. C'est aussi la base de l'histoire de Slack, qui est devenu en quelques années la référence en terme d'outils de communication de communauté ou d'entreprise mais qui avait été construit au départ pour répondre aux besoins de leur entreprise. Mais ces deux exemples sont loin d'être des cas uniques. 
+
+Le postulat de départ est : si cet outil (ou service, pratique, etc.) permet de répondre parfaitement à nos besoins, il pourrait surement aider d'autres organisations, qui seraient - elles - prêtes à payer pour son utilisation. 
+
+Aussi, pour répondre à des besoins spécifiques de l'organisation (gestion de bénévoles, gestion des salles, ou n'importe quoi d'autre), il peut être intéressant de développer ses propres outils avec cet objectif en ligne de mire. Dans certains cas, il peut aussi être intéressant d'envisager ce développement avec partenaire technologique, qui pourra y trouver son compte et apporter une expertise complémentaire. Le changement de relation (de prestataire à partenaire) peut aussi apporter des échanges plus productifs. 
+On voit souvent ce type de partenariats dans les domaines spécialisés : par exemple, une entreprise TI vient réaliser un projet de gestion sur-mesure pour une clinique. Une fois le produit développé et en s’assurant qu’il répond parfaitement aux besoins spécifiques de la clinique, les partenaires décident de le ‘packager’ pour le proposer (souvent sous forme d’abonnement récurrent) comme un produit complet à d’autres cliniques. 
+
+Mais il est clair que cette stratégie demande (en plus des compétences techniques de développement et de maintenance) des capacités de développement d'affaire (communication, marketing, etc.) pour diffuser le produit à un maximum de nouveaux clients. 
 
 ###Partenariats 
-(cf. World Economic Forum) 
+Le développement de partenariats et la construction d'écosystèmes vont être des éléments clés de la création de valeur dans les années qui arrivent. Ces partenariats prennent des formes de plus en plus innovantes et complexes, mais toujours enracinées dans la collaboration. Au lieu d'être rigoureusement regroupés autour d'une entreprise ou d'un secteur spécifique, les écosystèmes rassemblent des entreprises mutuellement solidaires issues d'industries différentes, qui cherchent collectivement à faire émerger des offres différenciées et à créer de la valeur qu'elles ne pourraient pas produire seules. 
 
-Grameen a opéré une diversification importante des activités au Bengladesh en développant les partenairiats. Sa stratégie a été de créer des joint-ventures avec les leaders mondiaux dans une variété de secteurs. En voici quelques exemples :
-Grameen Phone, créée en 1996, joint-venture avec Telenor, un opérateur norvégien de téléphonie mobile
-Grameen Danone Foods, créée en 2005, qui produit et distribue des yaourts concentrés en micro-nutriments destinés aux enfants pauvres, dans le but de lutter contre la malnutrition
-Grameen Veolia Water, créée en 2008, qui fournit de l’eau potable aux populations rurales dans un contexte de contamination à l’arsenic des nappes phréatiques
-Ces structures sont qualifiées par M. Yunus de « social business ». C’est- à-dire qu’elles suivent le principe du « no loss, no dividend » (pas de pertes, pas de dividendes). Cette stratégie d’alliances a été guidée par le fait que Grameen ne maîtrisait pas les technologies nécessaires pour développer ces nouveaux produits, mais aussi par le constat que les multinationales occidentales jouissent d’une très bonne image au Bangladesh. Ces marques sont un gage de confiance et de modernité pour la plupart des habitants. Ces rapprochements peuvent prendre la forme de partenariats, de joint-ventures ou d’acquisitions(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9).
+La capacité d'une organisation à fédérer un écosystème autour d'elle, à activer un écosystème ou à combiner plusieurs écosystèmes vont donc devenir des éléments critiques. 
 
-###Accès à de nouveaux marchés 
+Le rapport du World Economic Forum dédié au commerce de détail(fn: Shaping the Future of Retail for Consumer Industries - Publié en janvier 2017 - Lien - https://www.weforum.org/reports/shaping-the-future-of-retail-for-consumer-industries) insiste sur la nécessité de développer ses capacités de collaboration, dans son secteur (intra-industrie) mais aussi hors de son secteur (extra-industrie). 
+
+Le rapport ajoute que les deux enjeux majeurs pour une organisation cherchant à s'intégrer dans ces écosystèmes sont  sa capacité à équilibrer sa propre stratégie et ses priorités tout en gérant sa position dans l'écosystème ainsi qu'à conserver son identité à la fois comme un acteur de l'écosystème et comme une entreprise distincte.
+
+Pour cela, une organisation comme le YMCA doit : 
+
+- Développer une culture de la collaboration à travers l'organisation dans son ensemble. 
+- Mettre en place des structures de gouvernance et de contrôle qui respectent toutes les parties prenantes. 
+- Assurer un alignement permanent avec le marché (et s'adapter si nécessaire). 
+
+Grameen a opéré une diversification importante des activités au Bengladesh en développant les partenariats. Sa stratégie a été de créer des *joint-ventures* avec les leaders mondiaux dans une variété de secteurs. En voici quelques exemples :
+
+- Grameen Phone, créée en 1996, joint-venture avec Telenor, un opérateur norvégien de téléphonie mobile
+- Grameen Danone Foods, créée en 2005, qui produit et distribue des yaourts concentrés en micro-nutriments destinés aux enfants pauvres, dans le but de lutter contre la malnutrition
+- Grameen Veolia Water, créée en 2008, qui fournit de l’eau potable aux populations rurales dans un contexte de contamination à l’arsenic des nappes phréatiques
+
+Ces structures sont qualifiées par M. Yunus de « *social business* ». C’est- à-dire qu’elles suivent le principe du « no loss, no dividend » (pas de pertes, pas de dividendes). Cette stratégie d’alliances a été guidée par le fait que Grameen ne maîtrisait pas les technologies nécessaires pour développer ces nouveaux produits, mais aussi par le constat que les multinationales occidentales jouissent d’une très bonne image au Bangladesh. Ces marques sont un gage de confiance et de modernité pour la plupart des habitants. Ces rapprochements peuvent prendre la forme de partenariats, de joint-ventures ou d’acquisitions(fn: Changement d’échelle - ESSEC publishing - Novembre 2014 - ISBN : 978-2-36456-122-9).
+
+###Ouverture de nouveaux marchés 
 Nous avons pu observer aussi au cours du benchmark qu’il n’est pas rare pour une organisation de profiter de sa notoriété et de sa base de supporters pour élargir ses activités à d’autres champs, qui peuvent parfois être assez éloignés de son coeur de métier. 
 
-Du côté du sport, de nombreuses organisations proposent des produits complémentaires à leurs utilisateurs. Et le premier axe est souvent la nutrition, car il est facile de passer du sport au ‘mode de vie’. Mais les produits proposés sont souvent des boîtes de protéines - qui sont facilement entreposables et permettent une marge confortable pour l’organisation - mais qui sont souvent associés à une pratique du sport ‘extrême’ (bodybuilding) qui ne correspond pas à tout le monde. 
+Du côté du sport, de nombreuses organisations proposent des produits complémentaires à leurs utilisateurs. Et le premier axe est souvent la nutrition, car il est facile de passer du sport au ‘mode de vie’. Mais les produits proposés sont souvent des boîtes de protéines - qui sont facilement entreposables et permettent une marge confortable pour l’organisation - mais qui sont souvent associés à une pratique du sport ‘extrême’ (*bodybuilding*) qui ne correspond pas à tout le monde. 
 
 Certains vont beaucoup plus loin que la nutrition. Les Mills, qui proposent au départ des programmes de gym, proposent maintenant toute une gamme de produits différents. Ils vendent des accessoires (haltères, etc.) associés à leurs programmes, mais ils ont aussi fait un partenariat avec Reebok pour concevoir une gamme de vêtements. Ils vont même jusqu’à vendre des compilations musicales des différents titres qui sont écoutés lors de leurs cours. 
 
-Un des exemples récents est le lancement de Patagonia Provisions, une nouvelle division de l’entreprises Patagonia dédiée à la vente en ligne de produits alimentaires. De l’habillement à la nourriture, le grand écart peut paraître assez ambitieux. Mais en réalité, les supporters de Patagonia connaissent l’engagement écologique de l’entreprise. Il s’agit donc de transformer un nouveau secteur, tout en gardant la mission écologique de départ. Et pour se faire, ils s’appuient sur un réseau de petits producteurs impliqués dans la régénération des sols (et de l’écosystème, plus généralement). On peut voir d’ailleurs que le site internet Patagonia Provisions ne ressemble pas du tout à un site de vente en ligne ‘classique’. Les éléments qui sont mis en avant ne sont pas les produits, mais plutôt les histoires qui les accompagnent (le producteur et ses méthodes). 
-
-
-Exemple(s) benchmark : 
-
-- **Habit** utilise des tests sanguins et ADN pour pouvoir recommander un programme de nutrition spécialement adapté au métabolisme et au style de vie du client (appuyé par plusieurs années de recherche). Ils proposent ensuite des recettes et même de la livraison à domicile de plats préparés. Cet exemple illustre surtout jusqu’à quel niveau on peut pousser la personnalisation. 
-- **Social Bite** est une chaîne de restauration rapide à vocation sociale basée en Ecosse. Ils cherchent à aider les gens à sortir de la rue en offrant de la nourriture et du travail. Un quart de leurs employés sont donc des itinérants en réinsertion. 
-
-À faire : 
-- Apprendre à connaître ses clients sur le bout des doigts (à travers les données collectées) et trouver le meilleur moyen / moment pour créer des points de contact 
-- Développer des expériences personnalisées (recommandations, notifications, invitations, etc.).
-- Identifier des partenaires qui pourraient générer un partenariat d’intérêt mutuel 
-- Faire le tri dans les opérations 
-
-##Produit packagé - B2B 
-
-Une fois un produit (outil, service, etc.) développé pour leur usage interne, certaines organisations ont réussi à le mettre en marché pour que d’autres puissent l’utiliser. 
-
-
-Aussi, si besoin, développer ses propres outils. Avec un partenaire technologique ? 
-C’est un axe qui peut permettre de passer à l’échelle. On le voit souvent dans les domaines spécialisés : par exemple, une entreprise TI vient réaliser un projet de gestion sur-mesure pour une clinique. Une fois le produit développé et en s’assurant qu’il répond parfaitement aux besoins spécifiques de la clinique, l’entreprise décide de le ‘packager’ pour le proposer (souvent sous forme d’abonnement récurrent) comme un produit complet à d’autres cliniques.  
-
-###Aller vers des marchés périphériques 
-Exemple fitness vers food / nutrition 
-(un exemple qu’on a vu plusieurs fois dans les exemples) 
-
-
-Economie d’échelle 
-Voir ce que l’on peut valoriser > contenus vidéo, etc. 
-
-Social franchise (TIESS) 
-Relation exigente 
-D’abord : un modèle d’affaire viable 
-Encadrer capacité d’innovation (besoin de ce surplus pour le réinvestir pour avoir plus d’impact encore) 
-Travail en cours ~
-
-Licences 
-
-Exemple(s) benchmark : 
+####Exemples benchmark  
 
 - **Les Mills** offrent un ainsi des programmes ‘clé en main’ pour les salles de sport. Mais ils ne s’arrêtent pas là. Ils mettent aussi à disposition leur outil de gestion de salle de sport, qui permet de faire des inscriptions, de la facturation, etc. De cette manière, ils ont pu se développer bien plus que s’ils avaient tenté d’ouvrir de nouvelles salles de sport. En faisant cette transition, ils sont passés d’une clientèle individuelle (B2C) à une clientèle professionnelle (B2B). 
-Idea Lab Kids 
+- Patagonia a récemment lancé **Patagonia Provisions**, une nouvelle division de l’entreprise dédiée à la vente en ligne de produits alimentaires. De l’habillement à la nourriture, le grand écart peut paraître assez ambitieux. Mais en réalité, les supporters de Patagonia connaissent l’engagement écologique de l’entreprise. Il s’agit donc de transformer un nouveau secteur, tout en gardant la mission écologique de départ. Et pour se faire, ils s’appuient sur un réseau de petits producteurs impliqués dans la régénération des sols (et de l’écosystème, plus généralement). On peut voir d’ailleurs que le site internet Patagonia Provisions ne ressemble pas du tout à un site de vente en ligne ‘classique’. Les éléments qui sont mis en avant ne sont pas les produits, mais plutôt les histoires qui les accompagnent (le producteur et ses méthodes). 
 
-À faire :
+(image: patagonia.png) 
+*Capture d'écran du site Patagonia Provisions*
+
+####À faire
+- Comprendre sa place dans les différents écosystèmes.  
+- Fédérer des acteurs avec des intérêts communs en vue. 
+- Diffuser un esprit de collaboration dans l'organisation au complet.
